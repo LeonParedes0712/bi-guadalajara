@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.html
+.vscode/
+data/denue_inegi_14_.csv
+data/*.csv
+*.html
+geocode_cache.json

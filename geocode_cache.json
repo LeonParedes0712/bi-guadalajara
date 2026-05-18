@@ -1,0 +1,3619 @@
+{
+  "Dionisio Rodriguez": {
+    "lat": 20.67427,
+    "lon": -103.32998
+  },
+  "Hidalgo": {
+    "lat": 20.679209,
+    "lon": -103.3703102
+  },
+  "Medrano": {
+    "lat": 20.66537,
+    "lon": -103.340689
+  },
+  "8 De Julio": {
+    "lat": 20.6107269,
+    "lon": -103.3758542
+  },
+  "Gigantes Eje": {
+    "lat": 20.661341,
+    "lon": -103.287607
+  },
+  "Independencia Norte": {
+    "lat": 20.7204481,
+    "lon": -103.315952
+  },
+  "Alvaro Obregon": {
+    "lat": 20.67179,
+    "lon": -103.33083
+  },
+  "Javier Mina": {
+    "lat": 20.6609491,
+    "lon": -103.2791705
+  },
+  "Mexico": {
+    "lat": 20.672827,
+    "lon": -103.391553
+  },
+  "Federacion": {
+    "lat": 20.67209,
+    "lon": -103.29605
+  },
+  "Lopez Cotilla": {
+    "lat": 20.673768,
+    "lon": -103.3674117
+  },
+  "Manuel Acuna": {
+    "lat": 20.6841,
+    "lon": -103.37335
+  },
+  "Belisario Dominguez": {
+    "lat": 20.6727539,
+    "lon": -103.3314805
+  },
+  "Industria": {
+    "lat": 20.67905,
+    "lon": -103.32835
+  },
+  "Patria": {
+    "lat": 20.6267018,
+    "lon": -103.3851098
+  },
+  "Ninguno": {
+    "lat": 20.75735,
+    "lon": -105.1572
+  },
+  "Paseo Hospicio": {
+    "lat": 20.6768107,
+    "lon": -103.3389738
+  },
+  "Ninos Heroes": {
+    "lat": 20.6630992,
+    "lon": -103.3483862
+  },
+  "Revolucion": {
+    "lat": 20.6509698,
+    "lon": -103.3101978
+  },
+  "Rio Nilo": {
+    "lat": 20.6448331,
+    "lon": -103.3040826
+  },
+  "Pedro Moreno": {
+    "lat": 20.67515,
+    "lon": -103.37361
+  },
+  "Esteban Alatorre": {
+    "lat": 20.6800103,
+    "lon": -103.320739
+  },
+  "Pablo Valdez": {
+    "lat": 20.68204,
+    "lon": -103.32733
+  },
+  "Republica": {
+    "lat": 20.623628,
+    "lon": -103.3632456
+  },
+  "Morelos": {
+    "lat": 20.6804767,
+    "lon": -103.3394092
+  },
+  "Lazaro Cardenas": {
+    "lat": 20.6184419,
+    "lon": -103.3802043
+  },
+  "Fresno": {
+    "lat": 20.6520492,
+    "lon": -103.3561378
+  },
+  "Joaquin Angulo": {
+    "lat": 20.68263,
+    "lon": -103.37367
+  },
+  "Juarez": {
+    "lat": 20.6749402,
+    "lon": -103.354752
+  },
+  "Joaquin Amaro": {
+    "lat": 20.6929479,
+    "lon": -103.2922286
+  },
+  "16 De Septiembre": {
+    "lat": 20.6633723,
+    "lon": -103.3495545
+  },
+  "Artesanos": {
+    "lat": 20.6824287,
+    "lon": -103.2948188
+  },
+  "Fray Antonio Alcalde": {
+    "lat": 20.68056,
+    "lon": -103.364871
+  },
+  "Fidel Velazquez Sanchez": {
+    "lat": 20.7107847,
+    "lon": -103.3610798
+  },
+  "Hacienda Santiago": {
+    "lat": 20.69445,
+    "lon": -103.29427
+  },
+  "Liceo": {
+    "lat": 20.68186,
+    "lon": -103.34699
+  },
+  "Jesus Garcia": {
+    "lat": 20.68967,
+    "lon": -103.37348
+  },
+  "Juan Pablo Ii": {
+    "lat": 20.702255,
+    "lon": -103.312688
+  },
+  "Herrera Y Cairo": {
+    "lat": 20.6837974,
+    "lon": -103.3712015
+  },
+  "Juan Alvarez": {
+    "lat": 20.68547,
+    "lon": -103.37359
+  },
+  "General Eulogio Parra": {
+    "lat": 20.68712,
+    "lon": -103.37328
+  },
+  "Avenida De La Paz": {
+    "lat": 20.6689164,
+    "lon": -103.3504787
+  },
+  "Colon": {
+    "lat": 20.6647,
+    "lon": -103.35233
+  },
+  "Marcelino Garcia Barragan": {
+    "lat": 20.67524,
+    "lon": -103.2814523
+  },
+  "Cristobal Colon": {
+    "lat": 20.6404604,
+    "lon": -103.3721495
+  },
+  "Ignacio L. Vallarta": {
+    "lat": 20.680272,
+    "lon": -103.273692
+  },
+  "Vallarta": {
+    "lat": 20.6744414,
+    "lon": -103.3873348
+  },
+  "Garibaldi": {
+    "lat": 20.68194,
+    "lon": -103.38262
+  },
+  "Mariano Otero": {
+    "lat": 20.6633868,
+    "lon": -103.3763277
+  },
+  "Paseo De La Arboleda": {
+    "lat": 20.6604387,
+    "lon": -103.3856302
+  },
+  "Calzada Del Federalismo Norte": {
+    "lat": 20.7065319,
+    "lon": -103.3549866
+  },
+  "Oblatos": {
+    "lat": 20.6702933,
+    "lon": -103.3225224
+  },
+  "Chamizal": {
+    "lat": 20.6527413,
+    "lon": -103.3054782
+  },
+  "Maria Bancalari": {
+    "lat": 20.6800861,
+    "lon": -103.353712
+  },
+  "Plan De San Luis Potosi": {
+    "lat": 20.6973378,
+    "lon": -103.3676104
+  },
+  "Division Del Norte": {
+    "lat": 20.7079973,
+    "lon": -103.3556266
+  },
+  "Jose Maria Iglesias": {
+    "lat": 20.6803416,
+    "lon": -103.2945161
+  },
+  "7 (Longinos Cadena)": {
+    "lat": 20.6255217,
+    "lon": -103.3563383
+  },
+  "Los Angeles": {
+    "lat": 20.6616512,
+    "lon": -103.3402754
+  },
+  "Juan Manuel": {
+    "lat": 20.6819202,
+    "lon": -103.3918961
+  },
+  "Puerto Melaque": {
+    "lat": 20.6829695,
+    "lon": -103.3117512
+  },
+  "Mezquitan": {
+    "lat": 20.6914807,
+    "lon": -103.3539097
+  },
+  "Plutarco Elias Calles": {
+    "lat": 20.6788345,
+    "lon": -103.2942366
+  },
+  "Presa Laurel": {
+    "lat": 20.6697925,
+    "lon": -103.2757932
+  },
+  "Justo Sierra": {
+    "lat": 20.617163,
+    "lon": -103.331174
+  },
+  "Francisco Sarabia": {
+    "lat": 20.67594,
+    "lon": -103.30373
+  },
+  "Mesa Del Norte": {
+    "lat": 20.70127,
+    "lon": -103.31135
+  },
+  "5 De Febrero": {
+    "lat": 20.6563715,
+    "lon": -103.3309603
+  },
+  "Andres Teran": {
+    "lat": 20.6895437,
+    "lon": -103.3679556
+  },
+  "Hospital": {
+    "lat": 20.686047,
+    "lon": -103.336769
+  },
+  "Pedro Loza": {
+    "lat": 20.6811075,
+    "lon": -103.3484102
+  },
+  "Carlos Fuero": {
+    "lat": 20.6550343,
+    "lon": -103.315722
+  },
+  "Ruben Dario": {
+    "lat": 20.697032,
+    "lon": -103.380428
+  },
+  "Gomez De Mendiola": {
+    "lat": 20.678561,
+    "lon": -103.311964
+  },
+  "Presa De Osorio": {
+    "lat": 20.6705775,
+    "lon": -103.2660718
+  },
+  "Mandarina": {
+    "lat": 20.6512511,
+    "lon": -103.3824906
+  },
+  "Manuel Avila Camacho": {
+    "lat": 20.727795,
+    "lon": -103.31276
+  },
+  "Gomez Farias": {
+    "lat": 20.6722792,
+    "lon": -103.2765108
+  },
+  "Lopez De Legazpi": {
+    "lat": 20.6401945,
+    "lon": -103.3831654
+  },
+  "Juan De Dios Robledo": {
+    "lat": 20.67736,
+    "lon": -103.31182
+  },
+  "Pablo Neruda": {
+    "lat": 20.702915,
+    "lon": -103.3216273
+  },
+  "Vidrio": {
+    "lat": 20.6664867,
+    "lon": -103.3551399
+  },
+  "Hacienda De Tala": {
+    "lat": 20.69256,
+    "lon": -103.2943
+  },
+  "Prisciliano Sanchez": {
+    "lat": 20.6441,
+    "lon": -103.31409
+  },
+  "Guadalupe": {
+    "lat": 20.6685208,
+    "lon": -103.396552
+  },
+  "Soto Y Gama": {
+    "lat": 20.7218044,
+    "lon": -103.3313266
+  },
+  "Abascal Y Souza": {
+    "lat": 20.6591,
+    "lon": -103.2629
+  },
+  "San Felipe": {
+    "lat": 20.6797255,
+    "lon": -103.3447253
+  },
+  "Independencia": {
+    "lat": 20.6709675,
+    "lon": -103.344699
+  },
+  "Libertad": {
+    "lat": 20.67288,
+    "lon": -103.36846
+  },
+  "Cairo": {
+    "lat": 20.67382,
+    "lon": -103.29263
+  },
+  "Agustin Yanez": {
+    "lat": 20.7182447,
+    "lon": -103.3389478
+  },
+  "Chapultepec Sur": {
+    "lat": 20.67135,
+    "lon": -103.36885
+  },
+  "Avenida De La Cruz": {
+    "lat": 20.7104237,
+    "lon": -103.3145684
+  },
+  "Hacienda La Calera": {
+    "lat": 20.69727,
+    "lon": -103.29055
+  },
+  "Jose Maria Verea": {
+    "lat": 20.65565,
+    "lon": -103.28137
+  },
+  "Josefa Ortiz De Dominguez": {
+    "lat": 20.6251888,
+    "lon": -103.3644924
+  },
+  "Ramon Lopez Velarde": {
+    "lat": 20.6971215,
+    "lon": -103.3909603
+  },
+  "Avenida De Los Maestros": {
+    "lat": 20.693124,
+    "lon": -103.3513222
+  },
+  "Monteolivete": null,
+  "Damian Carmona": {
+    "lat": 20.6744748,
+    "lon": -103.309808
+  },
+  "Jose Maria Vigil": {
+    "lat": 20.68951,
+    "lon": -103.37322
+  },
+  "Gabriel Ramos Millan": {
+    "lat": 20.68128,
+    "lon": -103.372156
+  },
+  "Reforma": {
+    "lat": 20.6687935,
+    "lon": -103.3341515
+  },
+  "Maria Guadalupe Martinez De Hernandez Loza": {
+    "lat": 20.6923731,
+    "lon": -103.2795568
+  },
+  "Terranova": {
+    "lat": 20.6822414,
+    "lon": -103.3883126
+  },
+  "Tarascos": {
+    "lat": 20.6810957,
+    "lon": -103.3962185
+  },
+  "Esteban Loera": {
+    "lat": 20.6785723,
+    "lon": -103.3227467
+  },
+  "Sierra Madre": {
+    "lat": 20.6904519,
+    "lon": -103.3244563
+  },
+  "Providencia": {
+    "lat": 20.6973972,
+    "lon": -103.3786781
+  },
+  "Antonio Rojas": {
+    "lat": 20.65965,
+    "lon": -103.30861
+  },
+  "Malecon": {
+    "lat": 20.678845,
+    "lon": -103.2679122
+  },
+  "Sierra Nevada": {
+    "lat": 20.68791,
+    "lon": -103.33297
+  },
+  "Manuel R. Alatorre": {
+    "lat": 20.6503834,
+    "lon": -103.2856306
+  },
+  "Prolongacion De Las Americas": {
+    "lat": 20.6993657,
+    "lon": -103.3748083
+  },
+  "Longinos Cadena": {
+    "lat": 20.6263604,
+    "lon": -103.3620113
+  },
+  "Enrique Diaz De Leon Sur": {
+    "lat": 20.6718903,
+    "lon": -103.3592318
+  },
+  "Pedro Garcia Conde": {
+    "lat": 20.6252429,
+    "lon": -103.3535674
+  },
+  "Mercedes Celis": {
+    "lat": 20.6531585,
+    "lon": -103.2786366
+  },
+  "Adolfo Cisneros": {
+    "lat": 20.6239346,
+    "lon": -103.3678566
+  },
+  "Pedro Antonio Buzeta": {
+    "lat": 20.6794381,
+    "lon": -103.3694401
+  },
+  "Gaza": {
+    "lat": 20.6756454,
+    "lon": -103.2861865
+  },
+  "Jesus Reyes Heroles": {
+    "lat": 20.616691,
+    "lon": -103.353615
+  },
+  "Fray Antonio De Segovia": {
+    "lat": 20.65208,
+    "lon": -103.32508
+  },
+  "Emilio Rabasa": {
+    "lat": 20.676139,
+    "lon": -103.2851206
+  },
+  "Cipriano Campos": {
+    "lat": 20.650588,
+    "lon": -103.2881099
+  },
+  "Mesa Central": {
+    "lat": 20.7029,
+    "lon": -103.31713
+  },
+  "Pensador Mexicano": {
+    "lat": 20.6649786,
+    "lon": -103.3298949
+  },
+  "Churubusco": {
+    "lat": 20.6759208,
+    "lon": -103.3325102
+  },
+  "Hacienda Arroyo Hondo": {
+    "lat": 20.6931726,
+    "lon": -103.2956617
+  },
+  "Adolfo Lopez Mateos Norte": {
+    "lat": 20.870556,
+    "lon": -104.978611
+  },
+  "Calzada Del Federalismo Sur": {
+    "lat": 20.6681285,
+    "lon": -103.3549441
+  },
+  "Fray Andres De Urdaneta": {
+    "lat": 20.6440994,
+    "lon": -103.3772451
+  },
+  "Experiencia": {
+    "lat": 20.7473368,
+    "lon": -103.3198503
+  },
+  "Hacienda De La Venta": null,
+  "Enrique Diaz De Leon Norte": {
+    "lat": 20.7078554,
+    "lon": -103.3614841
+  },
+  "Monte Parnaso": {
+    "lat": 20.69422,
+    "lon": -103.32425
+  },
+  "Doctor R. Michel": {
+    "lat": 20.63473,
+    "lon": -103.33017
+  },
+  "Jose Clemente Orozco": {
+    "lat": 20.688943,
+    "lon": -103.365556
+  },
+  "Mota Padilla": {
+    "lat": 20.6612983,
+    "lon": -103.3185914
+  },
+  "Nicolas Romero": {
+    "lat": 20.6866125,
+    "lon": -103.3620136
+  },
+  "Paseo De Los Filosofos": {
+    "lat": 20.70272,
+    "lon": -103.34228
+  },
+  "Colombia": {
+    "lat": 20.6497754,
+    "lon": -103.3718588
+  },
+  "Adrian Puga": {
+    "lat": 20.65585,
+    "lon": -103.2994
+  },
+  "Potrero Del Llano": {
+    "lat": 20.6359383,
+    "lon": -103.3746825
+  },
+  "Othon Blanco Caceres": {
+    "lat": 20.61245,
+    "lon": -103.38052
+  },
+  "Sebastian Allende": {
+    "lat": 20.6689387,
+    "lon": -103.3141215
+  },
+  "Basilio Badillo": {
+    "lat": 20.67869,
+    "lon": -103.31291
+  },
+  "Maria Reyes": {
+    "lat": 20.6574306,
+    "lon": -103.2694266
+  },
+  "Francisco De Ayza": {
+    "lat": 20.67377,
+    "lon": -103.31338
+  },
+  "Angel Martinez": {
+    "lat": 20.7197055,
+    "lon": -103.3321912
+  },
+  "Arquimedes": {
+    "lat": 20.698776,
+    "lon": -103.350208
+  },
+  "San Ignacio": {
+    "lat": 20.7053836,
+    "lon": -103.3015595
+  },
+  "Iran": {
+    "lat": 20.6712868,
+    "lon": -103.2903726
+  },
+  "Justo Corro": {
+    "lat": 20.6514029,
+    "lon": -103.3160241
+  },
+  "Francisco I. Madero": {
+    "lat": 20.7114779,
+    "lon": -103.297921
+  },
+  "Manuel Payno": {
+    "lat": 20.6802711,
+    "lon": -103.3140599
+  },
+  "Santa Monica": {
+    "lat": 20.711469,
+    "lon": -103.346102
+  },
+  "Peso": {
+    "lat": 20.6702979,
+    "lon": -103.2727465
+  },
+  "Francisco Huizar": {
+    "lat": 20.6464466,
+    "lon": -103.2841446
+  },
+  "Aldama": {
+    "lat": 20.6680177,
+    "lon": -103.3313787
+  },
+  "Jose Guadalupe Montenegro": {
+    "lat": 20.66897,
+    "lon": -103.3733
+  },
+  "Monte Caucaso": {
+    "lat": 20.688745,
+    "lon": -103.3354751
+  },
+  "Hacienda La Herradura": {
+    "lat": 20.6937781,
+    "lon": -103.2950443
+  },
+  "Rio Ocotlan": {
+    "lat": 20.6448311,
+    "lon": -103.3263155
+  },
+  "Francisco Gonzalez Bocanegra": {
+    "lat": 20.67703,
+    "lon": -103.30734
+  },
+  "Mexicaltzingo": {
+    "lat": 20.6669104,
+    "lon": -103.3553798
+  },
+  "Enrique Olavarria Y Ferrari": {
+    "lat": 20.6429091,
+    "lon": -103.2894639
+  },
+  "Ignacio Ramirez": {
+    "lat": 20.696144,
+    "lon": -103.371174
+  },
+  "Procuradores": {
+    "lat": 20.6705703,
+    "lon": -103.2894747
+  },
+  "Isla Cozumel": {
+    "lat": 20.6326,
+    "lon": -103.38289
+  },
+  "Motolinia": {
+    "lat": 20.691053,
+    "lon": -103.346619
+  },
+  "Rio Mascota": {
+    "lat": 20.7273082,
+    "lon": -105.1601294
+  },
+  "Hacienda Del Carmen": {
+    "lat": 20.6945439,
+    "lon": -103.2931763
+  },
+  "Colonias": {
+    "lat": 20.66677,
+    "lon": -103.36622
+  },
+  "Ricardo Toscano": {
+    "lat": 20.6208625,
+    "lon": -103.3720795
+  },
+  "Juan Zubaran Carmany": {
+    "lat": 20.7078987,
+    "lon": -103.3390725
+  },
+  "Teruel": {
+    "lat": 20.7187461,
+    "lon": -103.3391275
+  },
+  "Nicolas Regules": {
+    "lat": 20.66442,
+    "lon": -103.35091
+  },
+  "Jardines De San Francisco": {
+    "lat": 20.6657817,
+    "lon": -103.280725
+  },
+  "Porfirio Diaz": {
+    "lat": 20.6781015,
+    "lon": -103.3217975
+  },
+  "Coronel Calderon": {
+    "lat": 20.6833758,
+    "lon": -103.342498
+  },
+  "Hacienda La Colmena": {
+    "lat": 20.7051845,
+    "lon": -103.2899026
+  },
+  "Egipto": {
+    "lat": 20.69662,
+    "lon": -103.27461
+  },
+  "Jose Arteaga": {
+    "lat": 20.612064,
+    "lon": -103.3706814
+  },
+  "Islas Filipinas": {
+    "lat": 20.6412189,
+    "lon": -103.3793273
+  },
+  "Nudo De Cempoaltepetl": {
+    "lat": 20.70133,
+    "lon": -103.31818
+  },
+  "Santa Beatriz": {
+    "lat": 20.68933,
+    "lon": -103.31032
+  },
+  "Avenida De Las Rosas": {
+    "lat": 20.6594428,
+    "lon": -103.3973189
+  },
+  "Diagonal Golfo De Cortes": {
+    "lat": 20.67882,
+    "lon": -103.39283
+  },
+  "Alvarez Del Castillo": {
+    "lat": 20.6787,
+    "lon": -103.31571
+  },
+  "Volcan Zacapu": {
+    "lat": 20.7412334,
+    "lon": -103.322717
+  },
+  "San Jacinto": {
+    "lat": 20.6638478,
+    "lon": -103.2972559
+  },
+  "Felipe Angeles": {
+    "lat": 20.6712454,
+    "lon": -103.303353
+  },
+  "Mariano Barcena": {
+    "lat": 20.669771,
+    "lon": -103.2900359
+  },
+  "Cuitlahuac": {
+    "lat": 20.632157,
+    "lon": -103.391553
+  },
+  "Corregidora": {
+    "lat": 20.656415,
+    "lon": -103.329591
+  },
+  "Isla Rasa": {
+    "lat": 20.6341879,
+    "lon": -103.3892254
+  },
+  "San Patricio": {
+    "lat": 20.7168738,
+    "lon": -103.3180861
+  },
+  "Jose Guadalupe Zuno Hernandez": {
+    "lat": 20.67031,
+    "lon": -103.36838
+  },
+  "Jordan Norte": {
+    "lat": 20.6730521,
+    "lon": -103.2839111
+  },
+  "Castellanos Y Tapia": {
+    "lat": 20.6849982,
+    "lon": -103.3114972
+  },
+  "Ruisenor": {
+    "lat": 20.6523494,
+    "lon": -103.3683058
+  },
+  "Margarita Gutierrez Najera": {
+    "lat": 20.6811129,
+    "lon": -103.2830536
+  },
+  "Adolfo Lopez Mateos Sur": {
+    "lat": 20.6700521,
+    "lon": -103.3902252
+  },
+  "Monte Bello": {
+    "lat": 20.6891005,
+    "lon": -103.3213152
+  },
+  "Doctor Atl": {
+    "lat": 20.6959955,
+    "lon": -103.3786067
+  },
+  "Andres Bello": {
+    "lat": 20.6577717,
+    "lon": -103.2758819
+  },
+  "Francisco Villa": {
+    "lat": 20.619376,
+    "lon": -103.3687754
+  },
+  "Manuel Pena Y Pena": {
+    "lat": 20.6485491,
+    "lon": -103.3147274
+  },
+  "Manuel Gutierrez": {
+    "lat": 20.7111488,
+    "lon": -103.3018508
+  },
+  "Juan Bautista Ceballos": {
+    "lat": 20.62493,
+    "lon": -103.35279
+  },
+  "Magisterio": {
+    "lat": 20.6694701,
+    "lon": -103.3139391
+  },
+  "Belen": {
+    "lat": 20.68188,
+    "lon": -103.34546
+  },
+  "Luis Covarrubias": {
+    "lat": 20.619076,
+    "lon": -103.3526169
+  },
+  "Fray Junipero Serra": {
+    "lat": 20.690371,
+    "lon": -103.345019
+  },
+  "Maria Benitez": {
+    "lat": 20.6564462,
+    "lon": -103.2868233
+  },
+  "Jorge Delorme Y Campos": {
+    "lat": 20.6550928,
+    "lon": -103.3059742
+  },
+  "Argentina": {
+    "lat": 20.66219,
+    "lon": -103.3635
+  },
+  "Avenida Del Tepeyac": null,
+  "Luis Perez Verdia": {
+    "lat": 20.691531,
+    "lon": -103.330954
+  },
+  "Sor Juana Ines De La Cruz": {
+    "lat": 20.6582486,
+    "lon": -103.31247
+  },
+  "Islas Salomon": {
+    "lat": 20.633258,
+    "lon": -103.3891549
+  },
+  "Jose Gomez De La Cortina": null,
+  "Ventura Anaya": {
+    "lat": 20.6769822,
+    "lon": -103.3020492
+  },
+  "Isla Izaro": {
+    "lat": 20.6293881,
+    "lon": -103.3894629
+  },
+  "Salvador Quevedo Y Zubieta": {
+    "lat": 20.68544,
+    "lon": -103.33397
+  },
+  "Carlos A. Carrillo": {
+    "lat": 20.6229146,
+    "lon": -103.3540244
+  },
+  "Martin Macias": {
+    "lat": 20.7271623,
+    "lon": -103.3295329
+  },
+  "Gregorio Davila": {
+    "lat": 20.67621,
+    "lon": -103.36123
+  },
+  "18 De Agosto": {
+    "lat": 20.6103553,
+    "lon": -103.3787556
+  },
+  "Hacienda Medocina": {
+    "lat": 20.694705,
+    "lon": -103.2867831
+  },
+  "Carabelas": {
+    "lat": 20.64605,
+    "lon": -103.372
+  },
+  "Secundina Gallo": {
+    "lat": 20.6582578,
+    "lon": -103.3019268
+  },
+  "Donato Guerra": {
+    "lat": 20.6199283,
+    "lon": -103.3726175
+  },
+  "Monte La Luna": {
+    "lat": 20.69978,
+    "lon": -103.31919
+  },
+  "Betlen": {
+    "lat": 20.6904601,
+    "lon": -103.2724953
+  },
+  "Avenida De Las Americas": {
+    "lat": 20.6918679,
+    "lon": -103.3732606
+  },
+  "Puerto Del Carmen": {
+    "lat": 20.69295,
+    "lon": -103.3171
+  },
+  "Historiadores": {
+    "lat": 20.6464358,
+    "lon": -103.2855963
+  },
+  "9 Carlos A. Carrillo": {
+    "lat": 20.6229146,
+    "lon": -103.3540244
+  },
+  "San Alfonso": {
+    "lat": 20.702166,
+    "lon": -103.3134099
+  },
+  "Cruz Del Sur": {
+    "lat": 20.6432527,
+    "lon": -103.3867303
+  },
+  "Rita Perez De Moreno": {
+    "lat": 20.6749301,
+    "lon": -103.3155695
+  },
+  "Escorza": {
+    "lat": 20.6726877,
+    "lon": -103.358967
+  },
+  "Bethania": {
+    "lat": 20.6909326,
+    "lon": -103.2728666
+  },
+  "Enrique Gonzalez Martinez": {
+    "lat": 20.6775367,
+    "lon": -103.3466754
+  },
+  "Volcan Tancitaro": {
+    "lat": 20.7373532,
+    "lon": -103.3187157
+  },
+  "Rio Lagos": {
+    "lat": 20.64487,
+    "lon": -103.32879
+  },
+  "Panfilo Perez": {
+    "lat": 20.67517,
+    "lon": -103.30451
+  },
+  "Panama": {
+    "lat": 20.64921,
+    "lon": -103.3759
+  },
+  "Ramon Corona": {
+    "lat": 20.685438,
+    "lon": -103.347685
+  },
+  "Diaz Miron": {
+    "lat": 20.6638775,
+    "lon": -103.3207478
+  },
+  "Faro": {
+    "lat": 20.6560267,
+    "lon": -103.3883737
+  },
+  "Alameda": {
+    "lat": 20.679897,
+    "lon": -103.3393159
+  },
+  "Manuel M. Ponce": {
+    "lat": 20.661098,
+    "lon": -103.291496
+  },
+  "Miguel Mondragon": {
+    "lat": 20.6423564,
+    "lon": -103.2905209
+  },
+  "Batallon De San Patricio": {
+    "lat": 20.7138554,
+    "lon": -103.3101603
+  },
+  "Aurelio Manriquez": {
+    "lat": 20.6227235,
+    "lon": -103.3681483
+  },
+  "Rogelio Bacon": {
+    "lat": 20.6981287,
+    "lon": -103.3344221
+  },
+  "Rio La Paz": {
+    "lat": 20.6376877,
+    "lon": -103.319805
+  },
+  "Rafael Aguirre": {
+    "lat": 20.6215406,
+    "lon": -103.3521736
+  },
+  "Manuel Rivera Cambas": {
+    "lat": 20.6452257,
+    "lon": -103.2938894
+  },
+  "Analco": {
+    "lat": 20.6671443,
+    "lon": -103.3416314
+  },
+  "Artes Plasticas (Sur)": {
+    "lat": 20.61692,
+    "lon": -103.3443
+  },
+  "Juan N. Cumplido": {
+    "lat": 20.67629,
+    "lon": -103.35835
+  },
+  "Guelatao": {
+    "lat": 20.67424,
+    "lon": -103.30157
+  },
+  "Cruz Verde": {
+    "lat": 20.7087424,
+    "lon": -103.312655
+  },
+  "Ignacio Machain": {
+    "lat": 20.6908,
+    "lon": -103.30535
+  },
+  "Zaragoza": {
+    "lat": 20.6790953,
+    "lon": -103.3690856
+  },
+  "Violeta": {
+    "lat": 20.65728,
+    "lon": -103.33556
+  },
+  "Isla Gomera": {
+    "lat": 20.6255251,
+    "lon": -103.3936551
+  },
+  "Grecia": {
+    "lat": 20.6748456,
+    "lon": -103.3424646
+  },
+  "Maestranza": {
+    "lat": 20.6725987,
+    "lon": -103.3454695
+  },
+  "Heroes Ferrocarrileros": {
+    "lat": 20.6543817,
+    "lon": -103.3461578
+  },
+  "Peninsula": {
+    "lat": 20.6428062,
+    "lon": -103.3929876
+  },
+  "Lerdo De Tejada": {
+    "lat": 20.6714472,
+    "lon": -103.3672715
+  },
+  "Gobernador Luis G. Curiel": {
+    "lat": 20.62006,
+    "lon": -103.34567
+  },
+  "Carlos Reyes Aviles": {
+    "lat": 20.6314775,
+    "lon": -103.3747474
+  },
+  "Francisco Vazquez Coronado": {
+    "lat": 20.6426951,
+    "lon": -103.3791412
+  },
+  "Pavo": {
+    "lat": 20.66537,
+    "lon": -103.35492
+  },
+  "Marsella": {
+    "lat": 20.66669,
+    "lon": -103.37121
+  },
+  "Bernardo De Balbuena": {
+    "lat": 20.676193,
+    "lon": -103.377423
+  },
+  "Jose Rojo": {
+    "lat": 20.6205479,
+    "lon": -103.351824
+  },
+  "Pasillo Central": null,
+  "Antonio Bravo": {
+    "lat": 20.6642417,
+    "lon": -103.3394973
+  },
+  "Antonio Larranaga": {
+    "lat": 20.71715,
+    "lon": -103.29694
+  },
+  "Jardines De Babilonia": {
+    "lat": 20.6681265,
+    "lon": -103.2829774
+  },
+  "Mariano Jimenez": {
+    "lat": 20.67785,
+    "lon": -103.33503
+  },
+  "Paseo De La Selva Norte": {
+    "lat": 20.7055,
+    "lon": -103.28615
+  },
+  "Luis M. Fregoso": {
+    "lat": 20.6543966,
+    "lon": -103.2741061
+  },
+  "Ricardo Palmerin": {
+    "lat": 20.6566625,
+    "lon": -103.2920816
+  },
+  "Jose Maria Narvaez": {
+    "lat": 20.6828894,
+    "lon": -103.2960577
+  },
+  "Calderon De La Barca": {
+    "lat": 20.6460992,
+    "lon": -103.2976742
+  },
+  "Torres Quintero": {
+    "lat": 20.6906878,
+    "lon": -103.339039
+  },
+  "Legalidad": {
+    "lat": 20.7131776,
+    "lon": -103.3247116
+  },
+  "Cerro De La Campana": {
+    "lat": 20.7033778,
+    "lon": -103.3176617
+  },
+  "Montevideo": {
+    "lat": 20.702338,
+    "lon": -103.383053
+  },
+  "Hacienda Santa Cruz Del Valle": {
+    "lat": 20.6916672,
+    "lon": -103.2899533
+  },
+  "Bahia": {
+    "lat": 20.63971,
+    "lon": -103.39169
+  },
+  "Eucalipto": {
+    "lat": 20.65828,
+    "lon": -103.37849
+  },
+  "Alfredo Carrasco": {
+    "lat": 20.6577808,
+    "lon": -103.2928904
+  },
+  "Rafael De Zayas": {
+    "lat": 20.6765855,
+    "lon": -103.2855765
+  },
+  "Olmo": {
+    "lat": 20.6588178,
+    "lon": -103.3659529
+  },
+  "Tenerias": {
+    "lat": 20.6889988,
+    "lon": -103.3415977
+  },
+  "Lopez Mateos Sur": {
+    "lat": 20.6700521,
+    "lon": -103.3902252
+  },
+  "Buenos Aires": {
+    "lat": 20.69917,
+    "lon": -103.37486
+  },
+  "Jose Joaquin Herrera": {
+    "lat": 20.6484402,
+    "lon": -103.3168347
+  },
+  "Juan Diaz Covarrubias": {
+    "lat": 20.6786737,
+    "lon": -103.3331623
+  },
+  "Diagonal Manuel Cambre": {
+    "lat": 20.6955968,
+    "lon": -103.3691063
+  },
+  "Independencia Sur": {
+    "lat": 20.6920704,
+    "lon": -103.3354662
+  },
+  "Epigmenio Gonzalez": {
+    "lat": 20.6684189,
+    "lon": -103.3555064
+  },
+  "San Pablo": {
+    "lat": 20.68475,
+    "lon": -103.30055
+  },
+  "Periferico Norte Manuel Gomez Morin": {
+    "lat": 20.7183175,
+    "lon": -103.3121677
+  },
+  "Rodolfo Navarrete": {
+    "lat": 20.63109,
+    "lon": -103.35663
+  },
+  "Paseo Del Hospicio": null,
+  "Venezuela": {
+    "lat": 20.66257,
+    "lon": -103.36529
+  },
+  "Francisco Javier Gamboa": {
+    "lat": 20.67066,
+    "lon": -103.37769
+  },
+  "Carlos Gonzalez Pena": {
+    "lat": 20.6580352,
+    "lon": -103.2964429
+  },
+  "Hacienda Mazatepec": {
+    "lat": 20.6956548,
+    "lon": -103.2897359
+  },
+  "3 (Ramon Alcorta)": {
+    "lat": 20.6316191,
+    "lon": -103.3744149
+  },
+  "Los Alpes": {
+    "lat": 20.6955005,
+    "lon": -103.3287057
+  },
+  "Fermin Riestra": {
+    "lat": 20.6651072,
+    "lon": -103.3584217
+  },
+  "Joaquin Romero": {
+    "lat": 20.72011,
+    "lon": -103.29589
+  },
+  "Fernando De Magallanes": {
+    "lat": 20.6417,
+    "lon": -103.3722
+  },
+  "Jose Arrese": {
+    "lat": 20.621716,
+    "lon": -103.3664422
+  },
+  "Gonzalez Ortega": {
+    "lat": 20.686698,
+    "lon": -103.351002
+  },
+  "Miguel Blanco": {
+    "lat": 20.6712855,
+    "lon": -103.345268
+  },
+  "Fraternidad": {
+    "lat": 20.70589,
+    "lon": -103.31514
+  },
+  "Salvador Lopez Chavez": {
+    "lat": 20.64879,
+    "lon": -103.34085
+  },
+  "Calzada Del Campesino": {
+    "lat": 20.660838,
+    "lon": -103.3528601
+  },
+  "Ramon Pacheco": {
+    "lat": 20.6509367,
+    "lon": -103.3176584
+  },
+  "Pino": {
+    "lat": 20.66043,
+    "lon": -103.38183
+  },
+  "Jorge Alvarez Del Castillo Z.": {
+    "lat": 20.6957785,
+    "lon": -103.3727274
+  },
+  "Roman Morales": {
+    "lat": 20.6791202,
+    "lon": -103.3238407
+  },
+  "Arista": {
+    "lat": 20.6885,
+    "lon": -103.37352
+  },
+  "Sierra Morena": {
+    "lat": 20.6853011,
+    "lon": -103.3233972
+  },
+  "Volcan Pochutla": {
+    "lat": 20.73834,
+    "lon": -103.3181
+  },
+  "Huertas": {
+    "lat": 20.66997,
+    "lon": -103.30188
+  },
+  "Federico E. Ibarra": {
+    "lat": 20.7106695,
+    "lon": -103.3526819
+  },
+  "Maria Mares": {
+    "lat": 20.66062,
+    "lon": -103.28378
+  },
+  "Doctor Salvador Garcia Diego": {
+    "lat": 20.66312,
+    "lon": -103.31173
+  },
+  "Joaquin Martinez Chavarria": {
+    "lat": 20.63311,
+    "lon": -103.37374
+  },
+  "6 De Diciembre": {
+    "lat": 20.7022966,
+    "lon": -103.3563667
+  },
+  "Espana": {
+    "lat": 20.6216073,
+    "lon": -103.3892544
+  },
+  "Galeana": {
+    "lat": 20.65646,
+    "lon": -103.26324
+  },
+  "Maria Uribe": {
+    "lat": 20.648717,
+    "lon": -103.2845111
+  },
+  "Clarin": {
+    "lat": 20.64823,
+    "lon": -103.36092
+  },
+  "Francisco Zarco": {
+    "lat": 20.6869048,
+    "lon": -103.3761049
+  },
+  "Cipres": {
+    "lat": 20.6527027,
+    "lon": -103.35344
+  },
+  "Avenida Del Parque": {
+    "lat": 20.6514486,
+    "lon": -103.3011502
+  },
+  "Guanajuato": {
+    "lat": 20.679209,
+    "lon": -103.3703697
+  },
+  "Ahorro": {
+    "lat": 20.6669409,
+    "lon": -103.2726583
+  },
+  "Nueva Escocia": {
+    "lat": 20.699658,
+    "lon": -103.3891713
+  },
+  "Frias": {
+    "lat": 20.6272885,
+    "lon": -103.3597424
+  },
+  "Pedro Maria Anaya": {
+    "lat": 20.66701,
+    "lon": -103.29747
+  },
+  "Jorge Del Moral": {
+    "lat": 20.65218,
+    "lon": -103.27122
+  },
+  "Lagunitas": {
+    "lat": 20.67469,
+    "lon": -103.29977
+  },
+  "Laura Apodaca": {
+    "lat": 20.6663341,
+    "lon": -103.3542047
+  },
+  "Juan Palomar Y Arias": {
+    "lat": 20.6746204,
+    "lon": -103.3933419
+  },
+  "Julian Granados": {
+    "lat": 20.6273729,
+    "lon": -103.3777675
+  },
+  "Algodon": {
+    "lat": 20.6318133,
+    "lon": -103.3428829
+  },
+  "Comonfort": {
+    "lat": 20.663372,
+    "lon": -103.3219223
+  },
+  "Bellas Artes Poniente": {
+    "lat": 20.6144311,
+    "lon": -103.3529574
+  },
+  "Siete Colinas": {
+    "lat": 20.69768,
+    "lon": -103.33147
+  },
+  "Lapislazuli": {
+    "lat": 20.6420079,
+    "lon": -103.3941063
+  },
+  "Rio Reforma": {
+    "lat": 20.6357645,
+    "lon": -103.3230904
+  },
+  "Juan R. Zavala": {
+    "lat": 20.6782396,
+    "lon": -103.3208412
+  },
+  "Miguel Silva": {
+    "lat": 20.6163841,
+    "lon": -103.3801105
+  },
+  "Rio Atotonilco": {
+    "lat": 20.6405456,
+    "lon": -103.3309163
+  },
+  "Rayon": {
+    "lat": 20.66616,
+    "lon": -103.35772
+  },
+  "Abraham Gonzalez": {
+    "lat": 20.6803604,
+    "lon": -103.2988357
+  },
+  "Pedro Celestino Negrete": {
+    "lat": 20.6775916,
+    "lon": -103.320059
+  },
+  "Eutimio Pinzon": {
+    "lat": 20.7172169,
+    "lon": -103.3272543
+  },
+  "Doctor Silverio Garcia": {
+    "lat": 20.6607117,
+    "lon": -103.3323071
+  },
+  "Mariano Balleza": {
+    "lat": 20.7191812,
+    "lon": -103.3344993
+  },
+  "Hacienda De Guadalupe": {
+    "lat": 20.70095,
+    "lon": -103.30473
+  },
+  "Volcan Babuyan": {
+    "lat": 20.7358663,
+    "lon": -103.3134368
+  },
+  "Miguel Ramos Arizpe": {
+    "lat": 20.6500812,
+    "lon": -103.3123651
+  },
+  "San Mateo": {
+    "lat": 20.61135,
+    "lon": -103.33755
+  },
+  "Diego Cuentas": {
+    "lat": 20.67323,
+    "lon": -103.2982
+  },
+  "Puerto Angel": {
+    "lat": 20.69669,
+    "lon": -103.31315
+  },
+  "San Andres": {
+    "lat": 20.6652823,
+    "lon": -103.3060735
+  },
+  "Hacienda Del Jardin": {
+    "lat": 20.6975762,
+    "lon": -103.2858065
+  },
+  "Rio Independencia": {
+    "lat": 20.6394085,
+    "lon": -103.3223148
+  },
+  "Insurgentes": {
+    "lat": 20.683938,
+    "lon": -103.36936
+  },
+  "Chapultepec Norte": {
+    "lat": 20.67609,
+    "lon": -103.36834
+  },
+  "36 Guillermo Baca": {
+    "lat": 20.6309702,
+    "lon": -103.3760562
+  },
+  "Hacienda De Cedros": {
+    "lat": 20.6850156,
+    "lon": -103.2894686
+  },
+  "Sabino": {
+    "lat": 20.65978,
+    "lon": -103.36789
+  },
+  "Alemania": {
+    "lat": 20.665092,
+    "lon": -103.3617126
+  },
+  "Reyes Catolicos": {
+    "lat": 20.6455492,
+    "lon": -103.3753107
+  },
+  "Manuel De Navarrete": {
+    "lat": 20.664558,
+    "lon": -103.2921667
+  },
+  "Cayetano Esteva": {
+    "lat": 20.61967,
+    "lon": -103.37313
+  },
+  "Hacienda Mochitiltic": {
+    "lat": 20.6934489,
+    "lon": -103.2984738
+  },
+  "Enrique El Navegante": {
+    "lat": 20.63863,
+    "lon": -103.37587
+  },
+  "Aurelia Guevara": {
+    "lat": 20.6555092,
+    "lon": -103.288093
+  },
+  "Guadalupe Victoria": {
+    "lat": 20.697972,
+    "lon": -103.28998
+  },
+  "Angel Barrios": {
+    "lat": 20.623121,
+    "lon": -103.3594494
+  },
+  "Santa Fe": {
+    "lat": 20.68884,
+    "lon": -103.3073
+  },
+  "Isaac Albeniz": {
+    "lat": 20.6561033,
+    "lon": -103.2887069
+  },
+  "Diego Rivera": {
+    "lat": 20.675301,
+    "lon": -103.340562
+  },
+  "Calle Del Maiz": {
+    "lat": 20.6316926,
+    "lon": -103.3357506
+  },
+  "Lopez Portillo": {
+    "lat": 20.6249487,
+    "lon": -103.3755373
+  },
+  "Isla Cies": {
+    "lat": 20.6294135,
+    "lon": -103.3944578
+  },
+  "Rafael Cardenas Z.": {
+    "lat": 20.7246599,
+    "lon": -103.3241135
+  },
+  "Avenida De La Pintura": {
+    "lat": 20.6137948,
+    "lon": -103.3460713
+  },
+  "Los Ahuehuetes": {
+    "lat": 20.618151,
+    "lon": -103.3854733
+  },
+  "Manuel Gonzalez": {
+    "lat": 20.6234763,
+    "lon": -103.380641
+  },
+  "Lidia Garcia": {
+    "lat": 20.6943354,
+    "lon": -103.2777979
+  },
+  "Emiliano Zapata": {
+    "lat": 20.62222,
+    "lon": -103.3872049
+  },
+  "Mar Rojo": {
+    "lat": 20.69927,
+    "lon": -103.36912
+  },
+  "Degollado": {
+    "lat": 20.6773055,
+    "lon": -103.344621
+  },
+  "Tabachin": {
+    "lat": 20.6536816,
+    "lon": -103.3657463
+  },
+  "Betsayda": {
+    "lat": 20.6821329,
+    "lon": -103.2727627
+  },
+  "14 (Manuel Mena)": {
+    "lat": 20.6229537,
+    "lon": -103.373605
+  },
+  "Sierra Leona": {
+    "lat": 20.70651,
+    "lon": -103.32886
+  },
+  "Francisco Marquez": {
+    "lat": 20.649479,
+    "lon": -103.2985334
+  },
+  "Miguel Mendoza": {
+    "lat": 20.7074613,
+    "lon": -103.2913636
+  },
+  "Imprenta": {
+    "lat": 20.6692251,
+    "lon": -103.3490452
+  },
+  "Pedro Velez": {
+    "lat": 20.6766466,
+    "lon": -103.2814607
+  },
+  "Calle Del Federalismo Norte": null,
+  "Jaime Nuno": {
+    "lat": 20.7173838,
+    "lon": -103.3187133
+  },
+  "Pedro Catani": {
+    "lat": 20.6645118,
+    "lon": -103.322531
+  },
+  "Josefina Rojas": {
+    "lat": 20.6476289,
+    "lon": -103.2739123
+  },
+  "Francisco Cardenas Larios": {
+    "lat": 20.6564755,
+    "lon": -103.2905596
+  },
+  "Sucre": {
+    "lat": 20.67948,
+    "lon": -103.2699
+  },
+  "Jaime Torres Bodet": {
+    "lat": 20.714827,
+    "lon": -103.317493
+  },
+  "Normalistas": {
+    "lat": 20.6939567,
+    "lon": -103.345687
+  },
+  "Genovevo Rivas Guillen": {
+    "lat": 20.6819433,
+    "lon": -103.3064083
+  },
+  "Silvestre Revueltas": {
+    "lat": 20.6913945,
+    "lon": -103.3444191
+  },
+  "Apolonio M. Aviles": {
+    "lat": 20.6251731,
+    "lon": -103.3662605
+  },
+  "Miguel De Cervantes Saavedra": {
+    "lat": 20.7077231,
+    "lon": -103.3313553
+  },
+  "Hacienda Huescalapa": {
+    "lat": 20.69689,
+    "lon": -103.29427
+  },
+  "Agustin Rivera": {
+    "lat": 20.6709776,
+    "lon": -103.3216664
+  },
+  "Elias Villalpando": {
+    "lat": 20.646761,
+    "lon": -103.286691
+  },
+  "Rio Tizapan": {
+    "lat": 20.64757,
+    "lon": -103.32992
+  },
+  "Diodoro Corella": {
+    "lat": 20.6987654,
+    "lon": -103.2828726
+  },
+  "Jesus": {
+    "lat": 20.6828181,
+    "lon": -103.3494467
+  },
+  "Juan Ruiz De Alarcon": {
+    "lat": 20.67074,
+    "lon": -103.37655
+  },
+  "Volcan Acatenango": {
+    "lat": 20.7281,
+    "lon": -103.31388
+  },
+  "Victoria Navarro": {
+    "lat": 20.6508858,
+    "lon": -103.2760913
+  },
+  "Linda Vista": {
+    "lat": 20.6557832,
+    "lon": -103.3156663
+  },
+  "Jesus Amavisca": {
+    "lat": 20.7290426,
+    "lon": -103.3242183
+  },
+  "Praxedis Guerrero": {
+    "lat": 20.7200766,
+    "lon": -103.325194
+  },
+  "Venustiano Carranza": {
+    "lat": 20.6789113,
+    "lon": -103.344386
+  },
+  "Gonzalez Gallo": {
+    "lat": 20.6520559,
+    "lon": -103.3366833
+  },
+  "Manuel De Falla": {
+    "lat": 20.6590319,
+    "lon": -103.2824671
+  },
+  "Contreras Medellin": {
+    "lat": 20.6834832,
+    "lon": -103.3511875
+  },
+  "Leonor Pintado": {
+    "lat": 20.6505709,
+    "lon": -103.2738874
+  },
+  "Europa": {
+    "lat": 20.65479,
+    "lon": -103.30965
+  },
+  "Alfonso Esparza Oteo": {
+    "lat": 20.70455,
+    "lon": -103.29566
+  },
+  "Candido Carlin": {
+    "lat": 20.6543349,
+    "lon": -103.2884039
+  },
+  "Palma Sola": {
+    "lat": 20.6356406,
+    "lon": -103.3712868
+  },
+  "J. Jesus Ortiz": {
+    "lat": 20.71299,
+    "lon": -103.3523
+  },
+  "Maria C. Bancalari": {
+    "lat": 20.6171468,
+    "lon": -103.3647671
+  },
+  "Arroz": {
+    "lat": 20.6302195,
+    "lon": -103.3466347
+  },
+  "Amado Nervo": {
+    "lat": 20.614972,
+    "lon": -103.3752
+  },
+  "Felipe Lopez": {
+    "lat": 20.6186009,
+    "lon": -103.3709245
+  },
+  "Jardines Japoneses": {
+    "lat": 20.6687318,
+    "lon": -103.2853322
+  },
+  "Ignacio Mora Y Villamil": {
+    "lat": 20.6242507,
+    "lon": -103.3583588
+  },
+  "Monte Alban": {
+    "lat": 20.69527,
+    "lon": -103.32645
+  },
+  "Elisa Flores": {
+    "lat": 20.6829198,
+    "lon": -103.2776867
+  },
+  "Aztecas": {
+    "lat": 20.6872135,
+    "lon": -103.3959143
+  },
+  "Isla De La Palma": {
+    "lat": 20.6396325,
+    "lon": -103.3850501
+  },
+  "Isla Guadalupe": {
+    "lat": 20.6310051,
+    "lon": -103.3928216
+  },
+  "Higinio Ruvalcaba": {
+    "lat": 20.71132,
+    "lon": -103.2966
+  },
+  "Andalucia": {
+    "lat": 20.71293,
+    "lon": -103.35105
+  },
+  "Gonzalo Curiel": {
+    "lat": 20.6922235,
+    "lon": -103.3425083
+  },
+  "Orozco Y Berra": {
+    "lat": 20.6648348,
+    "lon": -103.3234455
+  },
+  "Guayana": {
+    "lat": 20.64854,
+    "lon": -103.38053
+  },
+  "Calzada Del Aguila": {
+    "lat": 20.6612306,
+    "lon": -103.3530186
+  },
+  "Andres Tamayo": {
+    "lat": 20.60908,
+    "lon": -103.37767
+  },
+  "12 De Octubre": {
+    "lat": 20.6190241,
+    "lon": -103.3578778
+  },
+  "Agustin Lara": {
+    "lat": 20.7106819,
+    "lon": -103.2897427
+  },
+  "Isla Pomona": {
+    "lat": 20.6358998,
+    "lon": -103.3936964
+  },
+  "Cuauhtemoc": {
+    "lat": 20.6770024,
+    "lon": -103.2923567
+  },
+  "20 De Noviembre": {
+    "lat": 20.684532,
+    "lon": -103.283724
+  },
+  "Presa De Solis": {
+    "lat": 20.6687116,
+    "lon": -103.2787362
+  },
+  "Vergel": {
+    "lat": 20.6741,
+    "lon": -103.29777
+  },
+  "Bartolome De Las Casas": {
+    "lat": 20.6637692,
+    "lon": -103.3403747
+  },
+  "Tabasco": {
+    "lat": 20.6790513,
+    "lon": -103.3705338
+  },
+  "Diamante": {
+    "lat": 20.6477172,
+    "lon": -103.392216
+  },
+  "18 De Marzo": {
+    "lat": 20.6381428,
+    "lon": -103.3769893
+  },
+  "Marcelino Rentaria": {
+    "lat": 20.6496634,
+    "lon": -103.2756408
+  },
+  "Zanzibar": {
+    "lat": 20.6237633,
+    "lon": -103.3919748
+  },
+  "Hacienda Bellavista": {
+    "lat": 20.6994651,
+    "lon": -103.2853562
+  },
+  "Platino": {
+    "lat": 20.6498192,
+    "lon": -103.3967282
+  },
+  "Marquesa De Calderon": {
+    "lat": 20.6460992,
+    "lon": -103.2976742
+  },
+  "Torrecillas": {
+    "lat": 20.6375858,
+    "lon": -103.3223854
+  },
+  "Pelicano": {
+    "lat": 20.65504,
+    "lon": -103.37305
+  },
+  "Nazareth": {
+    "lat": 20.6702169,
+    "lon": -103.2829045
+  },
+  "30 (Othon Blanco Caceres)": {
+    "lat": 20.6184643,
+    "lon": -103.3791779
+  },
+  "Presa El Tintero": {
+    "lat": 20.67425,
+    "lon": -103.27776
+  },
+  "San Inocencio": {
+    "lat": 20.692764,
+    "lon": -103.3042843
+  },
+  "Olivo": {
+    "lat": 20.65105,
+    "lon": -103.36763
+  },
+  "Doctor Leonardo Oliva": {
+    "lat": 20.6669421,
+    "lon": -103.3296342
+  },
+  "Canario": {
+    "lat": 20.6480058,
+    "lon": -103.3548588
+  },
+  "Fermin Rivera": {
+    "lat": 20.7221773,
+    "lon": -103.3211418
+  },
+  "Ricardo Palacios": {
+    "lat": 20.6226823,
+    "lon": -103.386114
+  },
+  "Natividad Macias": {
+    "lat": 20.6339658,
+    "lon": -103.3745145
+  },
+  "Garbanzo": {
+    "lat": 20.6308759,
+    "lon": -103.3480453
+  },
+  "Platon": {
+    "lat": 20.69948,
+    "lon": -103.33524
+  },
+  "Igualdad": {
+    "lat": 20.7112188,
+    "lon": -103.3223534
+  },
+  "Jose Carrillo": {
+    "lat": 20.6275095,
+    "lon": -103.3808435
+  },
+  "Jardines Del Regente": {
+    "lat": 20.6642167,
+    "lon": -103.2710256
+  },
+  "Hacienda San Marcos": {
+    "lat": 20.6923071,
+    "lon": -103.2818898
+  },
+  "Isla Salinas": {
+    "lat": 20.6369191,
+    "lon": -103.3450688
+  },
+  "Chihuahua": {
+    "lat": 20.679209,
+    "lon": -103.3705326
+  },
+  "Miguel Bravo": {
+    "lat": 20.61367,
+    "lon": -103.38083
+  },
+  "Monte Carmelo": {
+    "lat": 20.7048045,
+    "lon": -103.3299059
+  },
+  "Quebec": {
+    "lat": 20.6865049,
+    "lon": -103.3888614
+  },
+  "El Sol": {
+    "lat": 20.66256,
+    "lon": -103.38884
+  },
+  "Aurelio Aceves": {
+    "lat": 20.67311,
+    "lon": -103.3863
+  },
+  "Alberta": {
+    "lat": 20.7016127,
+    "lon": -103.3850526
+  },
+  "Simon Bolivar": {
+    "lat": 20.66665,
+    "lon": -103.37273
+  },
+  "Francisco Verdin": {
+    "lat": 20.7080744,
+    "lon": -103.3524661
+  },
+  "Circunvalacion Oblatos": {
+    "lat": 20.6876964,
+    "lon": -103.3007213
+  },
+  "Calzada Del Ejercito": {
+    "lat": 20.6556047,
+    "lon": -103.3360032
+  },
+  "Montreal": {
+    "lat": 20.7017523,
+    "lon": -103.3795855
+  },
+  "San Esteban": {
+    "lat": 20.68135,
+    "lon": -103.29942
+  },
+  "Agustin De Iturbide": {
+    "lat": 20.779722,
+    "lon": -105.153333
+  },
+  "Etiopia": {
+    "lat": 20.6715791,
+    "lon": -103.2887608
+  },
+  "Jesus Urueta": {
+    "lat": 20.6822522,
+    "lon": -103.3174444
+  },
+  "Santa Clemencia": {
+    "lat": 20.7040332,
+    "lon": -103.3036584
+  },
+  "Los Arcos": {
+    "lat": 20.6744361,
+    "lon": -103.3848264
+  },
+  "Francisco De Quevedo": {
+    "lat": 20.66877,
+    "lon": -103.38149
+  },
+  "Abundancia": {
+    "lat": 20.70688,
+    "lon": -103.29606
+  },
+  "Monte Calvario": {
+    "lat": 20.7003801,
+    "lon": -103.3324602
+  },
+  "Santo Tomas": {
+    "lat": 20.68362,
+    "lon": -103.31085
+  },
+  "Guinea": {
+    "lat": 20.65983,
+    "lon": -103.27556
+  },
+  "Paseo Via Acueducto": {
+    "lat": 20.7024301,
+    "lon": -103.401414
+  },
+  "Jerusalen": {
+    "lat": 20.6707078,
+    "lon": -103.2835837
+  },
+  "Madero": {
+    "lat": 20.6750572,
+    "lon": -103.3554561
+  },
+  "Avenida De Los Cientificos": {
+    "lat": 20.7001588,
+    "lon": -103.3444436
+  },
+  "Duque De Rivas": {
+    "lat": 20.67225,
+    "lon": -103.3825
+  },
+  "Gante": {
+    "lat": 20.66077,
+    "lon": -103.33439
+  },
+  "Avenida De La Escultura": {
+    "lat": 20.612955,
+    "lon": -103.342397
+  },
+  "San Pedro": {
+    "lat": 20.68406,
+    "lon": -103.29461
+  },
+  "Pino Suarez": {
+    "lat": 20.687323,
+    "lon": -103.346402
+  },
+  "Hacienda Cienega De Mata": {
+    "lat": 20.7007643,
+    "lon": -103.2841434
+  },
+  "San Ildefonso": {
+    "lat": 20.6857177,
+    "lon": -103.316651
+  },
+  "Luis Paez B.": {
+    "lat": 20.6610213,
+    "lon": -103.322798
+  },
+  "Ocampo": {
+    "lat": 20.6365453,
+    "lon": -103.3961057
+  },
+  "Manuel M. Dieguez": {
+    "lat": 20.681322,
+    "lon": -103.350344
+  },
+  "Concordia": {
+    "lat": 20.70734,
+    "lon": -103.30785
+  },
+  "Lazaro Perez": {
+    "lat": 20.6658203,
+    "lon": -103.3586068
+  },
+  "De La Patria": {
+    "lat": 20.623411,
+    "lon": -103.3721633
+  },
+  "Ramon Serratos": {
+    "lat": 20.7067387,
+    "lon": -103.2912152
+  },
+  "Maria Del Carmen Frias": null,
+  "Ignacio Mejia": {
+    "lat": 20.7289315,
+    "lon": -103.3237182
+  },
+  "Tamaulipas": {
+    "lat": 20.6790528,
+    "lon": -103.3705629
+  },
+  "Volcan San Francisco": {
+    "lat": 20.7324602,
+    "lon": -103.3173643
+  },
+  "San Salvador": {
+    "lat": 20.6508,
+    "lon": -103.37394
+  },
+  "Luis Arcaraz": {
+    "lat": 20.7084979,
+    "lon": -103.2926347
+  },
+  "Julian Carrillo": {
+    "lat": 20.7033564,
+    "lon": -103.2937755
+  },
+  "Gabriela Mistral": {
+    "lat": 20.663533,
+    "lon": -103.283334
+  },
+  "Chicalote": {
+    "lat": 20.6516067,
+    "lon": -103.3854733
+  },
+  "Francisco Silva Romero": {
+    "lat": 20.656829,
+    "lon": -103.296547
+  },
+  "Isla Socorro": {
+    "lat": 20.6306672,
+    "lon": -103.3855881
+  },
+  "Rio Suchiate": {
+    "lat": 20.6500459,
+    "lon": -103.3333451
+  },
+  "Presa Oviachic": {
+    "lat": 20.6680659,
+    "lon": -103.2783573
+  },
+  "Olimpica": {
+    "lat": 20.645838,
+    "lon": -103.330407
+  },
+  "Demostenes": {
+    "lat": 20.67378,
+    "lon": -103.28797
+  },
+  "Nuez": {
+    "lat": 20.6537129,
+    "lon": -103.3744568
+  },
+  "Isla Antigua": {
+    "lat": 20.6338124,
+    "lon": -103.387043
+  },
+  "Union": {
+    "lat": 20.6716057,
+    "lon": -103.3736029
+  },
+  "Presidentes": {
+    "lat": 20.6510908,
+    "lon": -103.3201142
+  },
+  "Miguel Orozco Camacho": {
+    "lat": 20.61584,
+    "lon": -103.38111
+  },
+  "Bartolome Gutierrez": {
+    "lat": 20.6256103,
+    "lon": -103.3644412
+  },
+  "Tunez": {
+    "lat": 20.67244,
+    "lon": -103.29109
+  },
+  "Hacienda Los Belenes": {
+    "lat": 20.69313,
+    "lon": -103.30677
+  },
+  "Humboldt": {
+    "lat": 20.68115,
+    "lon": -103.34302
+  },
+  "Ramon Castellanos": {
+    "lat": 20.68104,
+    "lon": -103.29444
+  },
+  "Trigo": {
+    "lat": 20.63402,
+    "lon": -103.33637
+  },
+  "Felix Palavicini": {
+    "lat": 20.7057,
+    "lon": -103.34885
+  },
+  "Navarra": {
+    "lat": 20.71123,
+    "lon": -103.33859
+  },
+  "Bernal Diaz Del Castillo": {
+    "lat": 20.6438716,
+    "lon": -103.3024962
+  },
+  "Jose Maria Coss": {
+    "lat": 20.6996595,
+    "lon": -103.3523465
+  },
+  "Daniel Larios Cardenas": {
+    "lat": 20.7182014,
+    "lon": -103.331965
+  },
+  "Porres Baranda": {
+    "lat": 20.6702808,
+    "lon": -103.3084501
+  },
+  "Guillermo Chavez": {
+    "lat": 20.7228905,
+    "lon": -103.3236584
+  },
+  "Puerto Soto La Marina": {
+    "lat": 20.6935,
+    "lon": -103.32053
+  },
+  "Jose Maria De La Vega": {
+    "lat": 20.695809,
+    "lon": -103.28077
+  },
+  "Cabanas": {
+    "lat": 20.6768706,
+    "lon": -103.3377051
+  },
+  "Arnulfo Gonzalez Medina": {
+    "lat": 20.7232244,
+    "lon": -103.3216414
+  },
+  "Justicia": {
+    "lat": 20.70967,
+    "lon": -103.31062
+  },
+  "Rafael Molina": {
+    "lat": 20.623201,
+    "lon": -103.3748189
+  },
+  "Miguel Bernal": {
+    "lat": 20.657216,
+    "lon": -103.2800089
+  },
+  "Julian Medina Castillo": {
+    "lat": 20.68686,
+    "lon": -103.29985
+  },
+  "Cuenca": {
+    "lat": 20.71059,
+    "lon": -103.33728
+  },
+  "Amistad": {
+    "lat": 20.6387001,
+    "lon": -103.383202
+  },
+  "Irene Robledo Garcia": {
+    "lat": 20.64712,
+    "lon": -103.31014
+  },
+  "Hacienda La Rajadura": {
+    "lat": 20.6896885,
+    "lon": -103.2916313
+  },
+  "San Juan De Ulua": {
+    "lat": 20.7046153,
+    "lon": -103.352468
+  },
+  "Manuel Cuesta Gallardo": {
+    "lat": 20.6751805,
+    "lon": -103.3198709
+  },
+  "28 De Enero": {
+    "lat": 20.6647724,
+    "lon": -103.344302
+  },
+  "Hacienda Ojo Zarco": {
+    "lat": 20.68899,
+    "lon": -103.29582
+  },
+  "Jose Encarnacion Rosas": {
+    "lat": 20.6889765,
+    "lon": -103.3411697
+  },
+  "Alfredo R. Plascencia": {
+    "lat": 20.686556,
+    "lon": -103.368606
+  },
+  "5 De Mayo": {
+    "lat": 20.6162322,
+    "lon": -103.3592481
+  },
+  "Bagdad": {
+    "lat": 20.66775,
+    "lon": -103.29547
+  },
+  "Constitucion": {
+    "lat": 20.66723,
+    "lon": -103.33779
+  },
+  "Rafael Lozada": {
+    "lat": 20.6183319,
+    "lon": -103.3703241
+  },
+  "Pepe Guizar": {
+    "lat": 20.705413,
+    "lon": -103.3904677
+  },
+  "Jose Luis Verdia": {
+    "lat": 20.65985,
+    "lon": -103.33911
+  },
+  "Puerto Altata": {
+    "lat": 20.69645,
+    "lon": -103.32142
+  },
+  "Joaquin Mucel": {
+    "lat": 20.726568,
+    "lon": -103.3287949
+  },
+  "Manuel Doblado": {
+    "lat": 20.68113,
+    "lon": -103.33116
+  },
+  "Camarena": {
+    "lat": 20.67152,
+    "lon": -103.35793
+  },
+  "Puerto Progreso": {
+    "lat": 20.69852,
+    "lon": -103.31658
+  },
+  "Leona Vicario": {
+    "lat": 20.7238141,
+    "lon": -103.335311
+  },
+  "Maria Luisa Martinez": {
+    "lat": 20.7296014,
+    "lon": -103.3272928
+  },
+  "Jardines De Versalles": {
+    "lat": 20.6653803,
+    "lon": -103.282893
+  },
+  "Hacienda La Quemada": {
+    "lat": 20.6945568,
+    "lon": -103.2972543
+  },
+  "Isla Indias": {
+    "lat": 20.6438157,
+    "lon": -103.3758404
+  },
+  "Jarauta": {
+    "lat": 20.68081,
+    "lon": -103.32868
+  },
+  "Concepcion Loy": {
+    "lat": 20.6218092,
+    "lon": -103.3772933
+  },
+  "Esmeralda": {
+    "lat": 20.6450122,
+    "lon": -103.3955547
+  },
+  "Refugio Rubio": {
+    "lat": 20.6512073,
+    "lon": -103.2727158
+  },
+  "Rafael Navarro Cortina": {
+    "lat": 20.6127802,
+    "lon": -103.3758095
+  },
+  "Paseo Degollado": {
+    "lat": 20.6771156,
+    "lon": -103.3422783
+  },
+  "Manuel De Gorostiza": {
+    "lat": 20.6635002,
+    "lon": -103.2819538
+  },
+  "Francisco De Orellana": {
+    "lat": 20.6465166,
+    "lon": -103.3674132
+  },
+  "Esperanza": {
+    "lat": 20.6795265,
+    "lon": -103.3364185
+  },
+  "2 (Rafael Lozada)": {
+    "lat": 20.6138109,
+    "lon": -103.371663
+  },
+  "Ramon Blancarte": {
+    "lat": 20.6772625,
+    "lon": -103.3190197
+  },
+  "Francia": {
+    "lat": 20.6989846,
+    "lon": -103.3873624
+  },
+  "Genaro Vega Salazar": {
+    "lat": 20.6846401,
+    "lon": -103.2780365
+  },
+  "Aquiles Serdan": {
+    "lat": 20.67899,
+    "lon": -103.32649
+  },
+  "Coyul": {
+    "lat": 20.6605044,
+    "lon": -103.3520416
+  },
+  "Hacienda Arroyo De Enmedio": {
+    "lat": 20.6932868,
+    "lon": -103.2904572
+  },
+  "Guatemala": {
+    "lat": 20.65252,
+    "lon": -103.37274
+  },
+  "Monte Olimpo": {
+    "lat": 20.6965613,
+    "lon": -103.3260485
+  },
+  "Artes": {
+    "lat": 20.65996,
+    "lon": -103.31815
+  },
+  "Volcan Fogo": {
+    "lat": 20.7340783,
+    "lon": -103.3196065
+  },
+  "Inglaterra": {
+    "lat": 20.6742431,
+    "lon": -103.3988208
+  },
+  "Vicente Guerrero": {
+    "lat": 20.660502,
+    "lon": -103.374097
+  },
+  "Obsidiana": {
+    "lat": 20.6955141,
+    "lon": -103.3044189
+  },
+  "Leandro Valle": {
+    "lat": 20.67065,
+    "lon": -103.34716
+  },
+  "Rio Juarez": {
+    "lat": 20.6581337,
+    "lon": -103.2652566
+  },
+  "Estadio": {
+    "lat": 20.7105794,
+    "lon": -103.325032
+  },
+  "Puerto Ensenada": {
+    "lat": 20.6959346,
+    "lon": -103.3165154
+  },
+  "San Gabriel": {
+    "lat": 20.71714,
+    "lon": -103.30983
+  },
+  "Gorrion": {
+    "lat": 20.6472,
+    "lon": -103.35738
+  },
+  "Pina": {
+    "lat": 20.6581362,
+    "lon": -103.3784257
+  },
+  "Acueducto": {
+    "lat": 20.6945473,
+    "lon": -103.3926706
+  },
+  "Cerro Azul": {
+    "lat": 20.6864934,
+    "lon": -103.3237218
+  },
+  "Durazno": {
+    "lat": 20.65779,
+    "lon": -103.3719
+  },
+  "Calzada Independencia Norte": {
+    "lat": 20.6850734,
+    "lon": -103.3366166
+  },
+  "Jose Maria Martinez": {
+    "lat": 20.6915527,
+    "lon": -103.276866
+  },
+  "Volcan Pelee": {
+    "lat": 20.7308508,
+    "lon": -103.3210096
+  },
+  "Rio Alamo": {
+    "lat": 20.6370743,
+    "lon": -103.3291002
+  },
+  "Enrique Granados": {
+    "lat": 20.6580322,
+    "lon": -103.2905545
+  },
+  "Primavera": {
+    "lat": 20.66209,
+    "lon": -103.37889
+  },
+  "5 (Andres Balvanera)": {
+    "lat": 20.630129,
+    "lon": -103.3716141
+  },
+  "Arquitecto Manuel Gomez Ibarra": {
+    "lat": 20.60888,
+    "lon": -103.34421
+  },
+  "Rio Ameca": {
+    "lat": 20.6497,
+    "lon": -103.32886
+  },
+  "Rio Balsas": {
+    "lat": 20.66226,
+    "lon": -103.33266
+  },
+  "J. Miguel Macias": {
+    "lat": 20.6234303,
+    "lon": -103.3701051
+  },
+  "Quebrada": {
+    "lat": 20.6370824,
+    "lon": -103.3965701
+  },
+  "Jose Maria Canal": {
+    "lat": 20.7320854,
+    "lon": -103.3246362
+  },
+  "Brillante": {
+    "lat": 20.6939775,
+    "lon": -103.339713
+  },
+  "Rio Autlan": {
+    "lat": 20.6452997,
+    "lon": -103.3241025
+  },
+  "Trinidad Arvizu": {
+    "lat": 20.6301338,
+    "lon": -103.3774793
+  },
+  "Ejido": {
+    "lat": 20.64942,
+    "lon": -103.30753
+  },
+  "Pedro Sanchez": {
+    "lat": 20.6861168,
+    "lon": -103.2809424
+  },
+  "Las Conchas": {
+    "lat": 20.6592794,
+    "lon": -103.3369298
+  },
+  "Jose Maria Lozano": {
+    "lat": 20.6835276,
+    "lon": -103.3200719
+  },
+  "Isla Ustica": {
+    "lat": 20.63143,
+    "lon": -103.39261
+  },
+  "Fernando Calderon": {
+    "lat": 20.7284481,
+    "lon": -103.2968235
+  },
+  "Ottawa": {
+    "lat": 20.70271,
+    "lon": -103.37838
+  },
+  "Hacienda Del Rosario": {
+    "lat": 20.6965789,
+    "lon": -103.3017224
+  },
+  "Francisco Franco": {
+    "lat": 20.6272434,
+    "lon": -103.3560561
+  },
+  "Milano": {
+    "lat": 20.6295183,
+    "lon": -103.3761574
+  },
+  "Andres Quintana Roo": {
+    "lat": 20.7091582,
+    "lon": -103.3508401
+  },
+  "Alberto Correa": {
+    "lat": 20.6212506,
+    "lon": -103.3684576
+  },
+  "Esmirna": {
+    "lat": 20.6763849,
+    "lon": -103.2924832
+  },
+  "Ruben Rodriguez": {
+    "lat": 20.6612,
+    "lon": -103.28859
+  },
+  "Nicolas Bravo": {
+    "lat": 20.6624542,
+    "lon": -103.3405425
+  },
+  "Prudencia": {
+    "lat": 20.71047,
+    "lon": -103.30896
+  },
+  "Miguel Noriega": {
+    "lat": 20.694421,
+    "lon": -103.2791566
+  },
+  "Zacarias Rubio R.": {
+    "lat": 20.7088994,
+    "lon": -103.2960692
+  },
+  "Volcan Toliman": {
+    "lat": 20.737859,
+    "lon": -103.3164521
+  },
+  "Coatlan": {
+    "lat": 20.614508,
+    "lon": -103.394009
+  },
+  "San Mariano": {
+    "lat": 20.6912859,
+    "lon": -103.3173635
+  },
+  "Nogal": {
+    "lat": 20.72185,
+    "lon": -103.32783
+  },
+  "Teresa Reynoso": {
+    "lat": 20.6526523,
+    "lon": -103.2808804
+  },
+  "Domingo Loaeza": {
+    "lat": 20.6230269,
+    "lon": -103.3521711
+  },
+  "Manuel Cambre": {
+    "lat": 20.6909593,
+    "lon": -103.3656221
+  },
+  "Antonio Enriquez": {
+    "lat": 20.6647158,
+    "lon": -103.2970576
+  },
+  "Ramon Manterola": {
+    "lat": 20.619421,
+    "lon": -103.3723703
+  },
+  "Monte Everest": {
+    "lat": 20.6924856,
+    "lon": -103.3289221
+  },
+  "Tuberosa": {
+    "lat": 20.65897,
+    "lon": -103.34524
+  },
+  "Fernando Solis": {
+    "lat": 20.6786569,
+    "lon": -103.2713512
+  },
+  "Isla Pantenaria": {
+    "lat": 20.6357495,
+    "lon": -103.3873952
+  },
+  "Isla Trapani": {
+    "lat": 20.6312981,
+    "lon": -103.390304
+  },
+  "Rio San Juan De Dios": {
+    "lat": 20.64988,
+    "lon": -103.32344
+  },
+  "Jose Maria Lafragua": {
+    "lat": 20.6597359,
+    "lon": -103.3171702
+  },
+  "Progreso": {
+    "lat": 20.67139,
+    "lon": -103.36731
+  },
+  "Irineo Paz": {
+    "lat": 20.6618926,
+    "lon": -103.317392
+  },
+  "Melquiades Campos": {
+    "lat": 20.69969,
+    "lon": -103.29484
+  },
+  "San Lorenzo": {
+    "lat": 20.69127,
+    "lon": -103.30759
+  },
+  "Himno": {
+    "lat": 20.7014722,
+    "lon": -103.2966489
+  },
+  "Rufino Tamayo": {
+    "lat": 20.6992212,
+    "lon": -103.3419229
+  },
+  "6 (Alfonso Sanchez)": {
+    "lat": 20.6284626,
+    "lon": -103.3685197
+  },
+  "Celerino Navarro": {
+    "lat": 20.7170722,
+    "lon": -103.3226403
+  },
+  "Avenida Del Mercado": {
+    "lat": 20.6573857,
+    "lon": -103.3800341
+  },
+  "Florencia": {
+    "lat": 20.69171,
+    "lon": -103.37344
+  },
+  "8-A": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "Efrain Gonzalez Luna": {
+    "lat": 20.66984,
+    "lon": -103.37356
+  },
+  "Montes Urales": {
+    "lat": 20.7169492,
+    "lon": -103.3149736
+  },
+  "10 (Teodomiro Manzano)": {
+    "lat": 20.6227117,
+    "lon": -103.372428
+  },
+  "Rafael Camacho": {
+    "lat": 20.6999174,
+    "lon": -103.3498976
+  },
+  "Manuel Aveleyra Y De La Torre": null,
+  "Gabino Barreda": {
+    "lat": 20.65055,
+    "lon": -103.34159
+  },
+  "Nubia": {
+    "lat": 20.67238,
+    "lon": -103.289
+  },
+  "Jaime Carrillo": {
+    "lat": 20.7224416,
+    "lon": -103.3249737
+  },
+  "Edison": {
+    "lat": 20.6635606,
+    "lon": -103.3198436
+  },
+  "Miguel Gordoa": {
+    "lat": 20.70651,
+    "lon": -103.35211
+  },
+  "Rio Rhin": {
+    "lat": 20.6512,
+    "lon": -103.33088
+  },
+  "Antonio Tello": {
+    "lat": 20.6620743,
+    "lon": -103.3193076
+  },
+  "Sudan": {
+    "lat": 20.6778719,
+    "lon": -103.2885654
+  },
+  "General Coronado": {
+    "lat": 20.6768951,
+    "lon": -103.3652368
+  },
+  "Eleuterio Quiroz": {
+    "lat": 20.7134377,
+    "lon": -103.3385369
+  },
+  "Americo Vespucio": {
+    "lat": 20.63777,
+    "lon": -103.37356
+  },
+  "Sierra Grande": {
+    "lat": 20.69416,
+    "lon": -103.32364
+  },
+  "Jorge Isaac": {
+    "lat": 20.6597502,
+    "lon": -103.3074317
+  },
+  "Rio La Barca": {
+    "lat": 20.6470995,
+    "lon": -103.3265726
+  },
+  "Hernando De Martell": {
+    "lat": 20.6589641,
+    "lon": -103.3123489
+  },
+  "Heroe De Nacozari": {
+    "lat": 20.656708,
+    "lon": -103.368381
+  },
+  "Cardenal": {
+    "lat": 20.6365453,
+    "lon": -103.3961057
+  },
+  "Francisco J. Mugica": {
+    "lat": 20.7060511,
+    "lon": -103.3404937
+  },
+  "Heriberto M. Aja": {
+    "lat": 20.62356,
+    "lon": -103.3599897
+  },
+  "Severo Diaz": {
+    "lat": 20.7159647,
+    "lon": -103.2972
+  },
+  "Miraflores": {
+    "lat": 20.6998041,
+    "lon": -103.3454448
+  },
+  "Monte Tabor": {
+    "lat": 20.7079951,
+    "lon": -103.329173
+  },
+  "Felix Bernardelli": {
+    "lat": 20.6653121,
+    "lon": -103.30319
+  },
+  "16 (Laura Mendez)": {
+    "lat": 20.6318714,
+    "lon": -103.3708663
+  },
+  "Colomos": {
+    "lat": 20.69419,
+    "lon": -103.37414
+  },
+  "San Jorge": {
+    "lat": 20.6787283,
+    "lon": -103.4009083
+  },
+  "Isla Zanzibar": {
+    "lat": 20.6237633,
+    "lon": -103.3919748
+  },
+  "Cerro Gordo": {
+    "lat": 20.7042626,
+    "lon": -103.3178617
+  },
+  "Bruno Martinez Z.": {
+    "lat": 20.6153647,
+    "lon": -103.3761543
+  },
+  "Jesus Galindo Y Villa": {
+    "lat": 20.6430228,
+    "lon": -103.2839543
+  },
+  "Monte San Elias": {
+    "lat": 20.7077047,
+    "lon": -103.3313451
+  },
+  "Jamaica": {
+    "lat": 20.6516671,
+    "lon": -103.375454
+  },
+  "Aurelio L. Gallardo": {
+    "lat": 20.6766289,
+    "lon": -103.3763093
+  },
+  "Marcos Castellanos": {
+    "lat": 20.6744747,
+    "lon": -103.3564302
+  },
+  "Roble": {
+    "lat": 20.66361,
+    "lon": -103.36797
+  },
+  "San Uriel": {
+    "lat": 20.6639863,
+    "lon": -103.3995494
+  },
+  "Hacienda Cofradia Del Rosario": {
+    "lat": 20.69217,
+    "lon": -103.29983
+  },
+  "Amado Aguirre": {
+    "lat": 20.6474844,
+    "lon": -103.3118546
+  },
+  "Jose Maria Mendez Olivares": {
+    "lat": 20.6232261,
+    "lon": -103.3557983
+  },
+  "Bernardo Reyes": {
+    "lat": 20.6493818,
+    "lon": -103.2895437
+  },
+  "Miguel Galindo": {
+    "lat": 20.7071,
+    "lon": -103.35674
+  },
+  "Manzano": {
+    "lat": 20.6329706,
+    "lon": -103.3226117
+  },
+  "Cedro": {
+    "lat": 20.65491,
+    "lon": -103.36889
+  },
+  "Mojonera": {
+    "lat": 20.64578,
+    "lon": -103.35792
+  },
+  "Pablo Casals": {
+    "lat": 20.696987,
+    "lon": -103.318402
+  },
+  "Rosario Castellanos": {
+    "lat": 20.643176,
+    "lon": -103.383616
+  },
+  "Sierra Mojada": {
+    "lat": 20.7051647,
+    "lon": -103.320035
+  },
+  "Concepcion Alvarez": {
+    "lat": 20.6271841,
+    "lon": -103.3603193
+  },
+  "12 De Diciembre": {
+    "lat": 20.6582998,
+    "lon": -103.3978717
+  },
+  "Matias Romero": {
+    "lat": 20.66094,
+    "lon": -103.33841
+  },
+  "Fray Angelico": {
+    "lat": 20.6085917,
+    "lon": -103.3427164
+  },
+  "Miguel Hidalgo Y Costilla": {
+    "lat": 20.6772616,
+    "lon": -103.3457679
+  },
+  "Belgica": {
+    "lat": 20.67042,
+    "lon": -103.36035
+  },
+  "Quetzal": {
+    "lat": 20.6540727,
+    "lon": -103.3604066
+  },
+  "Calabaza": {
+    "lat": 20.6551601,
+    "lon": -103.3840988
+  },
+  "Mariposa": {
+    "lat": 20.6571916,
+    "lon": -103.3835167
+  },
+  "Loreto M. Mendez": {
+    "lat": 20.6485875,
+    "lon": -103.2758467
+  },
+  "Honduras": {
+    "lat": 20.6494656,
+    "lon": -103.3693262
+  },
+  "Benigno Lopez": {
+    "lat": 20.6180408,
+    "lon": -103.3652419
+  },
+  "Paraiso": {
+    "lat": 20.7285761,
+    "lon": -103.3250224
+  },
+  "Balbino Davalos": {
+    "lat": 20.6830222,
+    "lon": -103.3397457
+  },
+  "Lope De Vega": {
+    "lat": 20.6707972,
+    "lon": -103.3799912
+  },
+  "Barcelona": {
+    "lat": 20.7114232,
+    "lon": -103.3476182
+  },
+  "Juan Zuazua": {
+    "lat": 20.6189045,
+    "lon": -103.3825889
+  },
+  "Manuel Azpiroz": {
+    "lat": 20.6909338,
+    "lon": -103.3650821
+  },
+  "Vasco De Gama": {
+    "lat": 20.63831,
+    "lon": -103.37579
+  },
+  "Azucena": {
+    "lat": 20.659006,
+    "lon": -103.3390295
+  },
+  "Jose Maria Gomez": {
+    "lat": 20.6756733,
+    "lon": -103.3179818
+  },
+  "Amapola": {
+    "lat": 20.6098286,
+    "lon": -103.3767109
+  },
+  "Hacienda El Platanar": {
+    "lat": 20.690675,
+    "lon": -103.2976874
+  },
+  "7 Longinos Cadena": {
+    "lat": 20.6255217,
+    "lon": -103.3563383
+  },
+  "Juan De La Barrera": {
+    "lat": 20.644173,
+    "lon": -103.381988
+  },
+  "Isla Deseada": {
+    "lat": 20.6346494,
+    "lon": -103.3928924
+  },
+  "Bernardo Gutierrez De Lara": null,
+  "Juan Jose Baz": {
+    "lat": 20.6869821,
+    "lon": -103.3402336
+  },
+  "Chicharo": {
+    "lat": 20.6547813,
+    "lon": -103.3873571
+  },
+  "Sabiduria": {
+    "lat": 20.711,
+    "lon": -103.30755
+  },
+  "Roberto J. Cordero": {
+    "lat": 20.6244105,
+    "lon": -103.3729165
+  },
+  "Limon": {
+    "lat": 20.6573828,
+    "lon": -103.3732308
+  },
+  "Francisco Estrada": {
+    "lat": 20.7272966,
+    "lon": -103.329463
+  },
+  "Canaan": {
+    "lat": 20.6715005,
+    "lon": -103.280679
+  },
+  "Maria Elena Maza": {
+    "lat": 20.6300865,
+    "lon": -103.358284
+  },
+  "Evora": {
+    "lat": 20.7148077,
+    "lon": -103.3432548
+  },
+  "Robles Gil": {
+    "lat": 20.6712091,
+    "lon": -103.3632054
+  },
+  "Manuel Portillo": {
+    "lat": 20.6584528,
+    "lon": -103.2981759
+  },
+  "Juana De Arco": {
+    "lat": 20.6776551,
+    "lon": -103.3873258
+  },
+  "San Rafael": {
+    "lat": 20.6529559,
+    "lon": -103.2977521
+  },
+  "De Las Americas": {
+    "lat": 20.6763652,
+    "lon": -103.3684258
+  },
+  "Avispa": {
+    "lat": 20.6564115,
+    "lon": -103.384362
+  },
+  "Frijol": {
+    "lat": 20.6305936,
+    "lon": -103.3399984
+  },
+  "Tarragona": {
+    "lat": 20.7164765,
+    "lon": -103.3391225
+  },
+  "Miguel Topete": {
+    "lat": 20.6216117,
+    "lon": -103.3852764
+  },
+  "Ricardo Flores Magon Oriente": null,
+  "Manuel Varela": {
+    "lat": 20.6181352,
+    "lon": -103.3550328
+  },
+  "Puerto Pichilingue": {
+    "lat": 20.6986627,
+    "lon": -103.3235809
+  },
+  "Rio Panuco": {
+    "lat": 20.65028,
+    "lon": -103.32922
+  },
+  "46 (Anselmo Camacho)": {
+    "lat": 20.6283412,
+    "lon": -103.3798765
+  },
+  "Ingeniero Tomas Limon Gutierrez": {
+    "lat": 20.6267507,
+    "lon": -103.3451363
+  },
+  "Sauce": {
+    "lat": 20.6545542,
+    "lon": -103.3670817
+  },
+  "Chimborazo": {
+    "lat": 20.68901,
+    "lon": -103.32495
+  },
+  "Velino M. Presa": {
+    "lat": 20.7029406,
+    "lon": -103.2861391
+  },
+  "Reyes Flores": {
+    "lat": 20.66858,
+    "lon": -103.32524
+  },
+  "Manuel Alvarez R.": {
+    "lat": 20.7089994,
+    "lon": -103.2973437
+  },
+  "Puebla": {
+    "lat": 20.6790427,
+    "lon": -103.3703685
+  },
+  "Doctor Roberto Weeks Lopez": {
+    "lat": 20.6716953,
+    "lon": -103.2718587
+  },
+  "Doctor Perez Arce": {
+    "lat": 20.6641843,
+    "lon": -103.3279487
+  },
+  "Nance": {
+    "lat": 20.6477102,
+    "lon": -103.3804289
+  },
+  "Bruselas": {
+    "lat": 20.6629016,
+    "lon": -103.3665708
+  },
+  "Puerto Mulege": {
+    "lat": 20.6948164,
+    "lon": -103.318889
+  },
+  "2 De Abril": {
+    "lat": 20.6558194,
+    "lon": -103.3589804
+  },
+  "Gregorio Almada": {
+    "lat": 20.6265004,
+    "lon": -103.3587881
+  },
+  "Islas Hebridas": {
+    "lat": 20.6297455,
+    "lon": -103.3906052
+  },
+  "Constancia": {
+    "lat": 20.6669889,
+    "lon": -103.3310516
+  },
+  "Naranjo": {
+    "lat": 20.6556319,
+    "lon": -103.3717448
+  },
+  "Abeja": {
+    "lat": 20.6570608,
+    "lon": -103.383067
+  },
+  "General San Martin": {
+    "lat": 20.66695,
+    "lon": -103.37123
+  },
+  "Victoriano Salado Alvarez": {
+    "lat": 20.6795451,
+    "lon": -103.3812988
+  },
+  "Condor": {
+    "lat": 20.6541563,
+    "lon": -103.3611302
+  },
+  "Betabel": {
+    "lat": 20.6558157,
+    "lon": -103.3840608
+  },
+  "Pablo Villasenor": {
+    "lat": 20.6806458,
+    "lon": -103.3799627
+  },
+  "Rosario": {
+    "lat": 20.6385946,
+    "lon": -103.326302
+  },
+  "Topacio": {
+    "lat": 20.65341,
+    "lon": -103.39398
+  },
+  "Ghilardi": {
+    "lat": 20.686606,
+    "lon": -103.3628408
+  },
+  "Francisco Gonzalez Rojas": {
+    "lat": 20.6831996,
+    "lon": -103.3786382
+  },
+  "Pedro De Marchena": null,
+  "Isla Martinica": {
+    "lat": 20.6437624,
+    "lon": -103.3770896
+  },
+  "Artes Plasticas": {
+    "lat": 20.61692,
+    "lon": -103.3443
+  },
+  "Tomas V. Gomez": {
+    "lat": 20.68097,
+    "lon": -103.38287
+  },
+  "Monte Blanco": {
+    "lat": 20.69268,
+    "lon": -103.31666
+  },
+  "Jose Maria Mercado": {
+    "lat": 20.6745778,
+    "lon": -103.3403522
+  },
+  "Manuel De Mimbela": {
+    "lat": 20.6604352,
+    "lon": -103.3235461
+  },
+  "6-A": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "Tepic": {
+    "lat": 20.69612,
+    "lon": -103.35824
+  },
+  "Americas": {
+    "lat": 20.676702,
+    "lon": -103.3731
+  },
+  "Antonio Neri": {
+    "lat": 20.6238627,
+    "lon": -103.3575387
+  },
+  "Emilio Castelar": {
+    "lat": 20.6723417,
+    "lon": -103.3840342
+  },
+  "Avenida San Rafael": {
+    "lat": 20.6485,
+    "lon": -103.30663
+  },
+  "Durango": {
+    "lat": 20.679209,
+    "lon": -103.3704229
+  },
+  "Puerto La Paz": {
+    "lat": 20.6955881,
+    "lon": -103.3169761
+  },
+  "Licenciado Verdad": {
+    "lat": 20.6740047,
+    "lon": -103.3413329
+  },
+  "Lechuga": {
+    "lat": 20.6532139,
+    "lon": -103.385343
+  },
+  "Jose Palomar": {
+    "lat": 20.7082444,
+    "lon": -103.3548193
+  },
+  "Rio Zapotlanejo": {
+    "lat": 20.64705,
+    "lon": -103.32134
+  },
+  "Juan B. Berdeja": {
+    "lat": 20.7192604,
+    "lon": -103.3262964
+  },
+  "Cisne": {
+    "lat": 20.653525,
+    "lon": -103.3594901
+  },
+  "Encino": {
+    "lat": 20.65822,
+    "lon": -103.36713
+  },
+  "Homero": {
+    "lat": 20.6775281,
+    "lon": -103.3972252
+  },
+  "Santo Domingo": {
+    "lat": 20.6598533,
+    "lon": -103.391853
+  },
+  "Pitagoras": {
+    "lat": 20.6653934,
+    "lon": -103.2900051
+  },
+  "Rafael Delgado": {
+    "lat": 20.6565755,
+    "lon": -103.3121227
+  },
+  "Ricardo Palma": {
+    "lat": 20.6860063,
+    "lon": -103.3824416
+  },
+  "Enrique Diaz De Leon": {
+    "lat": 20.625792,
+    "lon": -103.3912354
+  },
+  "Cerezo": {
+    "lat": 20.65551,
+    "lon": -103.37726
+  },
+  "Cana": {
+    "lat": 20.6362596,
+    "lon": -103.3377086
+  },
+  "Huerto": {
+    "lat": 20.67244,
+    "lon": -103.3439
+  },
+  "Litoral": {
+    "lat": 20.6474946,
+    "lon": -103.391406
+  },
+  "Nelson": {
+    "lat": 20.682267,
+    "lon": -103.3896984
+  },
+  "Elote": {
+    "lat": 20.6539202,
+    "lon": -103.3842036
+  },
+  "Penitenciaria": {
+    "lat": 20.67004,
+    "lon": -103.35539
+  },
+  "Nueva Galicia": {
+    "lat": 20.658672,
+    "lon": -103.314533
+  },
+  "Mezquite": {
+    "lat": 20.65368,
+    "lon": -103.37179
+  },
+  "Granadilla": {
+    "lat": 20.6494848,
+    "lon": -103.3818562
+  },
+  "Rio Bravo": {
+    "lat": 20.6584034,
+    "lon": -103.3323213
+  },
+  "Mirlo": {
+    "lat": 20.6533975,
+    "lon": -103.3576298
+  },
+  "10-A": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "Francisco Lopez De Gomara": {
+    "lat": 20.6447387,
+    "lon": -103.2981008
+  },
+  "Rio Poo": {
+    "lat": 20.656855,
+    "lon": -103.3295742
+  },
+  "Samuel Ramos": {
+    "lat": 20.70497,
+    "lon": -103.3327542
+  },
+  "Democrito": {
+    "lat": 20.6654943,
+    "lon": -103.2907811
+  },
+  "Pasaje De Los Herreros": {
+    "lat": 20.6762477,
+    "lon": -103.3390968
+  },
+  "12-A": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "Valparaiso": {
+    "lat": 20.70324,
+    "lon": -103.37635
+  },
+  "Circunvalacion": {
+    "lat": 20.6851523,
+    "lon": -103.3816608
+  },
+  "Nebulosa": {
+    "lat": 20.6646661,
+    "lon": -103.3891956
+  },
+  "Bogota": {
+    "lat": 20.6988836,
+    "lon": -103.3782875
+  },
+  "50 (Jose Maria Castilleros)": {
+    "lat": 20.6245635,
+    "lon": -103.3827139
+  },
+  "Toltecas": {
+    "lat": 20.6885989,
+    "lon": -103.3963951
+  },
+  "Isla Mancel": {
+    "lat": 20.6293128,
+    "lon": -103.38524
+  },
+  "Nopal": {
+    "lat": 20.65252,
+    "lon": -103.3850463
+  },
+  "Ostia": {
+    "lat": 20.6926522,
+    "lon": -103.3829832
+  },
+  "Chapalita": {
+    "lat": 20.6644623,
+    "lon": -103.3969701
+  },
+  "Washington": {
+    "lat": 20.6611031,
+    "lon": -103.3574335
+  },
+  "Gaviota": {
+    "lat": 20.6509255,
+    "lon": -103.3546985
+  },
+  "Turin": {
+    "lat": 20.6946099,
+    "lon": -103.3863106
+  },
+  "Fray Francisco Frejes": {
+    "lat": 20.6882803,
+    "lon": -103.3766888
+  },
+  "Salto Del Agua": {
+    "lat": 20.7088591,
+    "lon": -103.3644301
+  },
+  "Mar Baltico": {
+    "lat": 20.69711,
+    "lon": -103.37345
+  },
+  "Ontario": {
+    "lat": 20.6943285,
+    "lon": -103.3818227
+  },
+  "Molina": {
+    "lat": 20.623201,
+    "lon": -103.3748189
+  },
+  "Paseo De Los Herreros": null,
+  "Lacandones": {
+    "lat": 20.6823599,
+    "lon": -103.3974405
+  },
+  "Isabel La Catolica": {
+    "lat": 20.6777112,
+    "lon": -103.3888318
+  },
+  "De La Paz": {
+    "lat": 20.6696978,
+    "lon": -103.3541737
+  },
+  "La Luna": {
+    "lat": 20.6657466,
+    "lon": -103.382956
+  },
+  "La Ley": {
+    "lat": 20.68114,
+    "lon": -103.38697
+  },
+  "Mar Marmara": {
+    "lat": 20.70404,
+    "lon": -103.36469
+  },
+  "Victoria": {
+    "lat": 20.6424636,
+    "lon": -103.3955786
+  },
+  "San Juan De Los Lagos": {
+    "lat": 20.6719751,
+    "lon": -103.3911646
+  },
+  "Isla Tory": {
+    "lat": 20.6297599,
+    "lon": -103.3893897
+  }
+}
