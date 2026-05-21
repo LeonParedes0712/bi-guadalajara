@@ -18,6 +18,7 @@ Dependencias:
 """
 
 from folium.plugins import MarkerCluster
+from html import escape
 import json
 import time
 import unicodedata
@@ -96,6 +97,32 @@ def es_nombre_valido(nombre: str) -> bool:
     if limpio.isdigit():
         return False
     return True
+
+def clasificar_corredor(row):
+
+    if row["score_humano"] > 7 and row["score_validacion"] > 10:
+        return "Premium consolidado"
+
+    if row["score_demanda"] > 70 and row["penalizacion_saturacion"] > 0:
+        return "Corredor de alto flujo"
+
+    if row["score_humano"] > 7 and row["score_validacion"] < 5:
+        return "Zona emergente"
+
+    if row["penalizacion_ruido"] > 10:
+        return "Comercial mixto"
+
+    return "Corredor comercial"
+
+
+def badge_style_por_corredor(tipo_corredor):
+    estilos = {
+        "Premium consolidado": ("#d1e7dd", "#0f5132"),
+        "Corredor de alto flujo": ("#fff3cd", "#664d03"),
+        "Zona emergente": ("#cfe2ff", "#084298"),
+        "Comercial mixto": ("#f8d7da", "#842029"),
+    }
+    return estilos.get(tipo_corredor, ("#eef4ff", "#1d4ed8"))
 
 
 # ---------------------------------------------------------------------------
@@ -229,33 +256,43 @@ def popup_html(row: dict, score: float, p66: float = 0.0, giro: str = "") -> str
     giro_count = int(row.get(giro_col, 0)) if giro_col else None
     giro_label = giro_col.replace("_", "/").capitalize() if giro_col else None
 
+    # ── Explicabilidad centralizada ─────────────────────────────────────────
+    pros = str(row.get("pros", "") or "").strip()
+    riesgos = str(row.get("riesgos", "") or "").strip()
+    explicacion_corta = str(row.get("explicacion_corta", "") or "").strip()
+    tipo_corredor = clasificar_corredor(row)
+    badge_bg, badge_color = badge_style_por_corredor(tipo_corredor)
+
+    def convertir_a_bullets(texto: str, fallback: str) -> str:
+        if not texto:
+            return fallback
+        
+        items = [escape(item.strip()) for item in texto.split(" | ") if item.strip()]
+
+        if not items:
+            return fallback
+
+        return "".join(
+            f"<div style='margin-bottom:4px;'>• {item}</div>"
+            for item in items
+        )
+    
+    pros_html = convertir_a_bullets(pros, "Sin fortalezas destacadas")
+    riesgos_html = convertir_a_bullets(riesgos, "Sin riesgos destacados")
+
+
+    explicacion_html = (
+        escape(explicacion_corta)
+        if explicacion_corta
+        else "Zona con indicadores comerciales moderados."
+    )
+
     # ── Alertas ─────────────────────────────────────────────────────────
     saturacion = float(row.get("penalizacion_saturacion", 0))
     ruido      = float(row.get("penalizacion_ruido", 0))
 
-    alerta_saturacion = saturacion > 0
-    alerta_ruido      = ruido > 10
-
     # ── Recomendación automática ─────────────────────────────────────────
     recomendacion_txt, recomendacion_bg = _recomendacion(score, saturacion, ruido, p66)
-
-    # ── Construir filas de alertas (solo si aplican) ─────────────────────
-    fila_saturacion = (
-        """<tr>
-             <td colspan="2" style="padding:3px 0; color:#856404;">
-               ⚠️ <b>Saturación detectada</b> — alta concentración del giro
-             </td>
-           </tr>"""
-        if alerta_saturacion else ""
-    )
-    fila_ruido = (
-        """<tr>
-             <td colspan="2" style="padding:3px 0; color:#842029;">
-               🔊 <b>Ruido comercial alto</b> — entorno mixto o industrial
-             </td>
-           </tr>"""
-        if alerta_ruido else ""
-    )
 
     # ── Fila del giro seleccionado (opcional) ────────────────────────────
     fila_giro = (
@@ -313,22 +350,43 @@ def popup_html(row: dict, score: float, p66: float = 0.0, giro: str = "") -> str
         {fila_giro}
       </table>
 
-      <!-- Alertas (solo si aplican) -->
-      {f'''<table style="font-size:12px; width:100%; border-top:1px solid #eee; padding-top:4px;">
-        {fila_saturacion}
-        {fila_ruido}
-      </table>''' if alerta_saturacion or alerta_ruido else ""}
-
-      <!-- Recomendación automática -->
+      <!-- Explicabilidad -->
       <div style="
           margin-top:8px;
-          padding:7px 10px;
-          background:{recomendacion_bg};
+          padding:8px 10px;
+          background:#f8f9fa;
+          border:1px solid #e9ecef;
           border-radius:5px;
           font-size:12px;
-          line-height:1.5;
+          line-height:1.45;
       ">
-        {recomendacion_txt}
+        <div style="margin-bottom:10px;">
+          <b>🏷 Tipo de corredor</b><br>
+
+          <span style="
+              background:{badge_bg};
+              color:{badge_color};
+              padding:4px 8px;
+              border-radius:8px;
+              font-size:12px;
+              font-weight:600;
+          ">
+              {tipo_corredor}
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <b>Explicación</b><br>
+          <span style="color:#333;">{explicacion_html}</span>
+        </div>
+        <div style="margin-bottom:4px;">
+          
+          <b style="color:#0f5132;">Fortalezas</b><br>
+          <span>{pros_html}</span>
+        </div>
+        <div>
+          <b style="color:#842029;">Riesgos</b><br>
+          <span>{riesgos_html}</span>
+        </div>
       </div>
 
     </div>

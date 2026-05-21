@@ -296,6 +296,64 @@ def _calcular_score_final(data: pd.DataFrame) -> pd.DataFrame:
     return d
 
 
+def _generar_explicabilidad(data: pd.DataFrame) -> pd.DataFrame:
+    """
+    Genera pros, riesgos y una explicación corta basada en los componentes del score.
+
+    No modifica el dataset original (trabaja sobre copia).
+    """
+    d = data.copy()
+    umbral_negocios = d["total_negocios"].quantile(0.75)
+    umbral_flujo = d["flujo_comercial"].quantile(0.75)
+    umbral_compatibilidad = d["score_compatibilidad"].median()
+
+    def construir_explicacion(row: pd.Series) -> pd.Series:
+        pros = []
+        riesgos = []
+
+        if row["total_negocios"] > umbral_negocios:
+            pros.append("Alta concentración comercial")
+        if row["flujo_comercial"] > umbral_flujo:
+            pros.append("Alto flujo comercial")
+        if row["score_validacion"] > 10:
+            pros.append("Mercado validado")
+        if row["score_humano"] > 7:
+            pros.append("Buena percepción urbana")
+        if row["score_compatibilidad"] > umbral_compatibilidad:
+            pros.append("Compatibilidad socioeconómica favorable")
+
+        if row["penalizacion_saturacion"] > 0:
+            riesgos.append("Saturación comercial elevada")
+        if row["penalizacion_ruido"] > 10:
+            riesgos.append("Ruido comercial elevado")
+        if row["score_validacion"] < 5:
+            riesgos.append("Baja presencia del giro")
+
+        if pros and riesgos:
+            pros_txt = " y ".join(pros[:2]).lower()
+            explicacion = (
+                f"Zona con {pros_txt} para este giro, aunque presenta "
+                f"{riesgos[0].lower()}."
+            )
+        elif pros:
+            pros_txt = " y ".join(pros[:2]).lower()
+            explicacion = f"Zona atractiva por {pros_txt} para este giro."
+        elif riesgos:
+            explicacion = f"Zona con cautela por {riesgos[0].lower()}."
+        else:
+            explicacion = "Zona con indicadores comerciales moderados."
+
+        return pd.Series({
+            "pros": " | ".join(pros),
+            "riesgos": " | ".join(riesgos),
+            "explicacion_corta": explicacion,
+        })
+
+    d[["pros", "riesgos", "explicacion_corta"]] = d.apply(construir_explicacion, axis=1)
+
+    return d
+
+
 # ---------------------------------------------------------------------------
 # PUNTO DE ENTRADA PÚBLICO
 # ---------------------------------------------------------------------------
@@ -348,5 +406,8 @@ def simulador_pro_v2(
 
     # 5. Score final combinado
     d = _calcular_score_final(d)
+
+    # 6. Explicabilidad centralizada
+    d = _generar_explicabilidad(d)
 
     return d.sort_values("score_final", ascending=False).head(top_n).reset_index(drop=True)
