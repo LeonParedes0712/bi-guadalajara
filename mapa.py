@@ -17,7 +17,7 @@ Dependencias:
     pip install pandas geopy folium
 """
 
-from folium.plugins import MarkerCluster
+from folium.plugins import HeatMap, MarkerCluster
 from html import escape
 import json
 import time
@@ -513,6 +513,29 @@ def main() -> None:
         zoom_start=12,
         tiles="CartoDB positron",
     )
+
+    heat_data = [
+        [float(row["lat"]), float(row["lon"]), float(row["score_final"])]
+        for _, row in df_geo.dropna(subset=["lat", "lon", "score_final"]).iterrows()
+    ]
+
+    HeatMap(
+        heat_data,
+        name="Heatmap híbrido",
+        min_opacity=0.35,
+        radius=24,
+        blur=18,
+        gradient={
+            0.20: "#2c7bb6",
+            0.45: "#abd9e9",
+            0.65: "#ffffbf",
+            0.82: "#fdae61",
+            1.00: "#d7191c",
+        },
+        overlay=True,
+        control=True,
+        show=True,
+    ).add_to(mapa)
 
     marker_cluster_layer = MarkerCluster(name="Avenidas")
 
